@@ -1,0 +1,29 @@
+baseURL = "https://example.org/"
+languageCode = "en-gb"
+title = "Back & Beyond"
+theme = "PaperMod"
+
+[params]
+	[params.homeInfoParams]
+		title = "Hey I'm Pedro \U0001F44B"
+		content = "I am a Front-end Engineer & Technical Writer. I enjoy creating interactive solutions with JavaScript. On my blog, I write about code (mostly JavaScript and React) and everything I learn. I’m actively exploring the world of web3 and blockchain technology."
+	[[params.socialIcons]]
+		name = "linkedin"
+        url = "https://www.linkedin.com/in/pedrocurado/"
+
+[menus]
+	[[menus.main]]
+		identifier = "home"
+		name = "Home"
+		pageRef = "/"
+		weight = 10
+	[[menus.main]]
+		identifier = "posts"
+		name = "Posts"
+		pageRef = "/posts/"
+		weight = 20
+	[[menus.main]]
+		identifier = "tags"
+		name = "Tags"
+		pageRef = "/tags/"
+		weight = 30

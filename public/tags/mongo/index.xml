@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mongo on Back &amp; Beyond</title>
+    <link>http://localhost:1313/tags/mongo/</link>
+    <description>Recent content in Mongo on Back &amp; Beyond</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 23 Oct 2025 09:05:54 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mongo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mongo Command Not Found</title>
+      <link>http://localhost:1313/posts/mongo-command-not-found/</link>
+      <pubDate>Thu, 23 Oct 2025 09:05:54 +0100</pubDate>
+      <guid>http://localhost:1313/posts/mongo-command-not-found/</guid>
+      <description>&lt;p&gt;If you are getting &amp;ldquo;Command Not Found&amp;rdquo; (after installing the latest mongo docker image) when running:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ docker exec -it &amp;lt;mongo_container&amp;gt; /bin/bash
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# mongo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This is because mongo shell has been removed from MongoDB 6.0. The replacement is &lt;a href=&#34;https://www.mongodb.com/docs/mongodb-shell/&#34;&gt;mongosh&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;References: &lt;a href=&#34;https://stackoverflow.com/questions/73582703/mongo-command-not-found-on-mongodb-6-0-docker-container&#34;&gt;mongo: command not found on mongodb 6.0 docker container&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setup Mongo Database in Linux Mint</title>
+      <link>http://localhost:1313/posts/setup-mongo-database-in-linux-mint/</link>
+      <pubDate>Mon, 04 Nov 2024 14:00:14 +0000</pubDate>
+      <guid>http://localhost:1313/posts/setup-mongo-database-in-linux-mint/</guid>
+      <description>&lt;p&gt;To install Mongo db in linux mint first follow &lt;a href=&#34;https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/&#34;&gt;these steps&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Then create the following folder structure &lt;code&gt;mkdir /data/db&lt;/code&gt;, make it writable to everyone with &lt;code&gt;sudo chmod -R go+w /data/db&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Create a service script with &lt;code&gt;sudo vim /etc/systemd/system/mongod.service&lt;/code&gt; and add the following contents:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;Unit&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Description&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;MongoDB Database Service
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Wants&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;network.target
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;After&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;network.target
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;Service&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ExecStart&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/usr/bin/mongod --config /etc/mongod.conf
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ExecReload&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/bin/kill -HUP $MAINPID
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Restart&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;always
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;User&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;mongodb
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Group&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;mongodb
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;StandardOutput&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;syslog
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;StandardError&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;syslog
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;Install&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;WantedBy&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;multi-user.target
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;References:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/a/42447303&#34;&gt;Mongo DB /data/db directory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/community/questions/mongo-cant-start-service&#34;&gt;Mongo Can&amp;rsquo;t start service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/37014186/running-mongodb-on-ubuntu-16-04-lts&#34;&gt;Running Mongo DB on Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

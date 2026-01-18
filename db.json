@@ -1,0 +1,3167 @@
+[
+  {
+    "fields": {
+      "name": "Postgres",
+      "slug": "postgres"
+    },
+    "model": "blog.tag",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "name": "Git",
+      "slug": "git"
+    },
+    "model": "blog.tag",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "name": "MySQL",
+      "slug": "mysql"
+    },
+    "model": "blog.tag",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "name": "Jenkins CI",
+      "slug": "jenkins-ci"
+    },
+    "model": "blog.tag",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "name": "Python",
+      "slug": "python"
+    },
+    "model": "blog.tag",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "name": "Ubuntu",
+      "slug": "ubuntu"
+    },
+    "model": "blog.tag",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "name": "SQLAlchemy",
+      "slug": "sqlalchemy"
+    },
+    "model": "blog.tag",
+    "pk": 7
+  },
+  {
+    "fields": {
+      "name": "Bash Scripting",
+      "slug": "bash-scripting"
+    },
+    "model": "blog.tag",
+    "pk": 8
+  },
+  {
+    "fields": {
+      "name": "Alembic",
+      "slug": "alembic"
+    },
+    "model": "blog.tag",
+    "pk": 12
+  },
+  {
+    "fields": {
+      "name": "Flask",
+      "slug": "flask"
+    },
+    "model": "blog.tag",
+    "pk": 13
+  },
+  {
+    "fields": {
+      "name": "Virtualenv",
+      "slug": "virtualenv"
+    },
+    "model": "blog.tag",
+    "pk": 14
+  },
+  {
+    "fields": {
+      "name": "Supervisor",
+      "slug": "supervisor"
+    },
+    "model": "blog.tag",
+    "pk": 15
+  },
+  {
+    "fields": {
+      "name": "Pip",
+      "slug": "pip"
+    },
+    "model": "blog.tag",
+    "pk": 16
+  },
+  {
+    "fields": {
+      "name": "Django",
+      "slug": "django"
+    },
+    "model": "blog.tag",
+    "pk": 17
+  },
+  {
+    "fields": {
+      "name": "South",
+      "slug": "south"
+    },
+    "model": "blog.tag",
+    "pk": 18
+  },
+  {
+    "fields": {
+      "name": "Celery",
+      "slug": "celery"
+    },
+    "model": "blog.tag",
+    "pk": 19
+  },
+  {
+    "fields": {
+      "name": "PDB",
+      "slug": "pdb"
+    },
+    "model": "blog.tag",
+    "pk": 20
+  },
+  {
+    "fields": {
+      "name": "Fabric",
+      "slug": "fabric"
+    },
+    "model": "blog.tag",
+    "pk": 21
+  },
+  {
+    "fields": {
+      "name": "Gunicorn",
+      "slug": "gunicorn"
+    },
+    "model": "blog.tag",
+    "pk": 22
+  },
+  {
+    "fields": {
+      "name": "NGINX",
+      "slug": "nginx"
+    },
+    "model": "blog.tag",
+    "pk": 23
+  },
+  {
+    "fields": {
+      "name": "Keyphrase",
+      "slug": "keyphrase"
+    },
+    "model": "blog.tag",
+    "pk": 24
+  },
+  {
+    "fields": {
+      "name": "Keyphrase Set",
+      "slug": "keyphrase-set"
+    },
+    "model": "blog.tag",
+    "pk": 25
+  },
+  {
+    "fields": {
+      "name": "Pedro Test Report",
+      "slug": "pedro-test-report"
+    },
+    "model": "blog.tag",
+    "pk": 26
+  },
+  {
+    "fields": {
+      "name": "Docker",
+      "slug": "docker"
+    },
+    "model": "blog.tag",
+    "pk": 27
+  },
+  {
+    "fields": {
+      "name": "Scrapy",
+      "slug": "scrapy"
+    },
+    "model": "blog.tag",
+    "pk": 28
+  },
+  {
+    "fields": {
+      "name": "scrapyd",
+      "slug": "scrapyd"
+    },
+    "model": "blog.tag",
+    "pk": 29
+  },
+  {
+    "fields": {
+      "name": "scrapyd-client",
+      "slug": "scrapyd-client"
+    },
+    "model": "blog.tag",
+    "pk": 30
+  },
+  {
+    "fields": {
+      "name": "AWS",
+      "slug": "aws"
+    },
+    "model": "blog.tag",
+    "pk": 31
+  },
+  {
+    "fields": {
+      "name": "Web-Browsers",
+      "slug": "web-browsers"
+    },
+    "model": "blog.tag",
+    "pk": 32
+  },
+  {
+    "fields": {
+      "name": "SQLite",
+      "slug": "sqlite"
+    },
+    "model": "blog.tag",
+    "pk": 33
+  },
+  {
+    "fields": {
+      "name": "Programmer",
+      "slug": "programmer"
+    },
+    "model": "blog.tag",
+    "pk": 34
+  },
+  {
+    "fields": {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    "model": "blog.tag",
+    "pk": 35
+  },
+  {
+    "fields": {
+      "name": "Heroku",
+      "slug": "heroku"
+    },
+    "model": "blog.tag",
+    "pk": 38
+  },
+  {
+    "fields": {
+      "name": "TDD",
+      "slug": "tdd"
+    },
+    "model": "blog.tag",
+    "pk": 39
+  },
+  {
+    "fields": {
+      "name": "SQL",
+      "slug": "sql"
+    },
+    "model": "blog.tag",
+    "pk": 40
+  },
+  {
+    "fields": {
+      "name": "Linux",
+      "slug": "linux"
+    },
+    "model": "blog.tag",
+    "pk": 41
+  },
+  {
+    "fields": {
+      "name": "Mongo",
+      "slug": "mongo"
+    },
+    "model": "blog.tag",
+    "pk": 42
+  },
+  {
+    "fields": {
+      "content": "<h4>Change a User's Password</h4>\n<pre><code>ALTER USER davide WITH PASSWORD 'hu8jmn3';\n</code></pre>",
+      "date_created": "2015-12-20T12:27:13Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "postgres",
+      "status": 1,
+      "title": "Postgres",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "content": "<p>To give Jenkins a new port edit the file at:</p>\n<div class=\"codehilite\"><pre>/etc/default/jenkins\n</pre></div>\n\n\n<p>and add the port number you want to the <code>HTTP_PORT VARIABLE</code>:</p>\n<div class=\"codehilite\"><pre><span class=\"c\"># port for HTTP connector (default 8080; disable with -1)</span>\n<span class=\"nv\">HTTP_PORT</span><span class=\"o\">=</span>9090\n</pre></div>\n\n\n<p>Then you should restart Jenkins with <code>sudo service jenkins restart</code>.</p>",
+      "date_created": "2015-12-22T08:55:55Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "how-to-assign-a-new-http-port-to-jenkins",
+      "status": 2,
+      "title": "How to assign a new HTTP port to Jenkins",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "content": "<p>To change which upstream remote is \"wired\" to your branch, use the git branch command with the upstream configuration flag. Ensure the remote exists first:</p>\n<div class=\"codehilite\"><pre>git remote -v\n</pre></div>\n\n\n<p>Set the preferred remote for the current (checked out) branch:</p>\n<div class=\"codehilite\"><pre>git branch --set-upstream-to &lt;remote-name&gt;\n</pre></div>\n\n\n<p>Validate the branch is setup with the correct upstream remote:</p>\n<div class=\"codehilite\"><pre>git branch -vv\n</pre></div>",
+      "date_created": "2015-12-24T19:51:21Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "changing-the-default-git-remote-push-to-default",
+      "status": 2,
+      "title": "Changing the default Git remote 'push to' default",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "content": "<p>First update your system:</p>\n<div class=\"codehilite\"><pre>sudo apt-get update\nsudo apt-get upgrade\n</pre></div>\n\n\n<p>Next install MySQL:</p>\n<div class=\"codehilite\"><pre>sudo apt-get install mysql-server\n</pre></div>\n\n\n<p>During the installation process, you will be prompted to set a password for the MySQL root user as shown below. Choose a strong password and keep it in a safe place for future reference.</p>\n<p>MySQL will bind to localhost (127.0.0.1) by default. </p>\n<p>Run the mysql_secure_installation script to address several security concerns in a default MySQL installation.</p>\n<div class=\"codehilite\"><pre>sudo mysql_secure_installation\n</pre></div>\n\n\n<p>You will be given the choice to change the MySQL root password, remove anonymous user accounts, disable root logins outside of localhost, and remove test databases. It is recommended that you answer yes to these options. You can read more about the script in in the <a href=\"https://dev.mysql.com/doc/refman/5.5/en/mysql-secure-installation.html\">MySQL Reference Manual</a>.</p>",
+      "date_created": "2015-12-30T08:52:30Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "install-mysql-in-ubuntu",
+      "status": 2,
+      "title": "Install MySQL in Ubuntu",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "content": "<div class=\"codehilite\"><pre><span class=\"kn\">import</span> <span class=\"nn\">datetime</span>\n\n<span class=\"c\"># requires python-dateutil (http://labix.org/python-dateutil)</span>\n<span class=\"kn\">from</span> <span class=\"nn\">dateutil.relativedelta</span> <span class=\"kn\">import</span> <span class=\"n\">relativedelta</span>\n\n<span class=\"k\">def</span> <span class=\"nf\">get_month_day_range</span><span class=\"p\">(</span><span class=\"n\">date</span><span class=\"p\">):</span>\n    <span class=\"sd\">&quot;&quot;&quot;</span>\n<span class=\"sd\">    For a date &#39;date&#39; returns the start and end date for the month of &#39;date&#39;.</span>\n<span class=\"sd\">    Month with 31 days:</span>\n<span class=\"sd\">    &gt;&gt;&gt; date = datetime.date(2011, 7, 27)</span>\n<span class=\"sd\">    &gt;&gt;&gt; get_month_day_range(date)</span>\n<span class=\"sd\">    (datetime.date(2011, 7, 1), datetime.date(2011, 7, 31))</span>\n<span class=\"sd\">    Month with 28 days:</span>\n<span class=\"sd\">    &gt;&gt;&gt; date = datetime.date(2011, 2, 15)</span>\n<span class=\"sd\">    &gt;&gt;&gt; get_month_day_range(date)</span>\n<span class=\"sd\">    (datetime.date(2011, 2, 1), datetime.date(2011, 2, 28))</span>\n<span class=\"sd\">    &quot;&quot;&quot;</span>\n    <span class=\"n\">last_day</span> <span class=\"o\">=</span> <span class=\"n\">date</span> <span class=\"o\">+</span> <span class=\"n\">relativedelta</span><span class=\"p\">(</span><span class=\"n\">day</span><span class=\"o\">=</span><span class=\"mi\">1</span><span class=\"p\">,</span> <span class=\"n\">months</span><span class=\"o\">=+</span><span class=\"mi\">1</span><span class=\"p\">,</span> <span class=\"n\">days</span><span class=\"o\">=-</span><span class=\"mi\">1</span><span class=\"p\">)</span>\n    <span class=\"n\">first_day</span> <span class=\"o\">=</span> <span class=\"n\">date</span> <span class=\"o\">+</span> <span class=\"n\">relativedelta</span><span class=\"p\">(</span><span class=\"n\">day</span><span class=\"o\">=</span><span class=\"mi\">1</span><span class=\"p\">)</span>\n    <span class=\"k\">return</span> <span class=\"n\">first_day</span><span class=\"p\">,</span> <span class=\"n\">last_day</span>\n\n<span class=\"k\">if</span> <span class=\"n\">__name__</span> <span class=\"o\">==</span> <span class=\"s\">&quot;__main__&quot;</span><span class=\"p\">:</span>\n    <span class=\"kn\">import</span> <span class=\"nn\">doctest</span>\n    <span class=\"n\">doctest</span><span class=\"o\">.</span><span class=\"n\">testmod</span><span class=\"p\">()</span>\n</pre></div>\n\n\n<p>See original <a href=\"https://gist.github.com/waynemoore/1109153\">here</a></p>",
+      "date_created": "2016-01-04T08:45:56Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "get-the-first-and-last-day-of-the-month-function-in-python",
+      "status": 2,
+      "title": "Get the first and last day of the month function in Python",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "content": "<h4>How to disable overlay scrollbars</h4>\n<p>Install Ubuntu tweak from Ubuntu Software Center, click on Scrolling and select Legacy other than Overlay.</p>",
+      "date_created": "2016-01-04T09:20:47Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "ubuntu",
+      "status": 1,
+      "title": "Ubuntu",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "content": "<p>To log in to MySQL as the root user:</p>\n<div class=\"codehilite\"><pre>mysql -u root -p\n</pre></div>\n\n\n<p>When prompted, enter the root password you assigned when the mysql_secure_installation script was run.</p>",
+      "date_created": "2016-01-10T22:15:23Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "login-to-mysql-as-a-root-user",
+      "status": 2,
+      "title": "Login to MySQL as a root user",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 7
+  },
+  {
+    "fields": {
+      "content": "<p>In the example below, <code>myprojectdb</code> is the name of the database, <code>myprojectuser</code> is the user, and <code>password</code> is the user’s password.</p>\n<div class=\"codehilite\"><pre><span class=\"k\">CREATE</span> <span class=\"k\">DATABASE</span> <span class=\"n\">myprojectdb</span><span class=\"p\">;</span>\n<span class=\"k\">CREATE</span> <span class=\"n\">USER</span> <span class=\"n\">myprojectuser</span><span class=\"o\">@</span><span class=\"n\">localhost</span> <span class=\"n\">IDENTIFIED</span> <span class=\"k\">BY</span> <span class=\"s1\">&#39;password&#39;</span><span class=\"p\">;</span>\n</pre></div>\n\n\n<p>Give our database user, access rights to the database created:</p>\n<div class=\"codehilite\"><pre><span class=\"k\">GRANT</span> <span class=\"k\">ALL</span> <span class=\"n\">PRIVILEGES</span> <span class=\"k\">ON</span> <span class=\"n\">myprojectdb</span><span class=\"p\">.</span><span class=\"o\">*</span> <span class=\"k\">TO</span> <span class=\"n\">myprojectuser</span><span class=\"o\">@</span><span class=\"n\">localhost</span><span class=\"p\">;</span>\n</pre></div>\n\n\n<p>Flush the changes so that they will be available during the current session:</p>\n<div class=\"codehilite\"><pre><span class=\"n\">FLUSH</span> <span class=\"n\">PRIVILEGES</span><span class=\"p\">;</span>\n</pre></div>\n\n\n<p>Exit the SQL prompt to get back to your regular shell session:</p>\n<div class=\"codehilite\"><pre><span class=\"k\">exit</span>\n</pre></div>",
+      "date_created": "2016-01-10T22:16:31Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "create-a-database-and-a-database-user-in-mysql",
+      "status": 2,
+      "title": "Create a Database and a Database User in MySql",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 8
+  },
+  {
+    "fields": {
+      "content": "<p>First remove MySQL:</p>\n<div class=\"codehilite\"><pre>sudo apt-get remove --purge mysql-server mysql-client mysql-common\nsudo apt-get autoremove\nsudo apt-get autoclean\n</pre></div>\n\n\n<p>Then re-install:</p>\n<div class=\"codehilite\"><pre>sudo apt-get update\nsudo apt-get install mysql-server\nsudo mysql_install_db\nsudo /usr/bin/mysql_secure_installation\n</pre></div>",
+      "date_created": "2016-01-10T22:18:09Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "how-to-re-install-mysql",
+      "status": 2,
+      "title": "How to re-Install MySQL",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 9
+  },
+  {
+    "fields": {
+      "content": "<div class=\"codehilite\"><pre><span class=\"k\">UPDATE</span> <span class=\"n\">mysql</span><span class=\"p\">.</span><span class=\"n\">user</span> <span class=\"kt\">SET</span> <span class=\"n\">user</span><span class=\"o\">=</span><span class=\"s1\">&#39;newusername&#39;</span> <span class=\"k\">WHERE</span> <span class=\"n\">user</span><span class=\"o\">=</span><span class=\"s1\">&#39;root&#39;</span><span class=\"p\">;</span>\n<span class=\"n\">FLUSH</span> <span class=\"n\">PRIVILEGES</span><span class=\"p\">;</span>\n</pre></div>",
+      "date_created": "2016-01-10T22:19:34Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "update-database-user-name",
+      "status": 1,
+      "title": "Update database user name",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 10
+  },
+  {
+    "fields": {
+      "content": "<p>Connect to the MySQL instance as a root/admin user and enter the following command:</p>\n<div class=\"codehilite\"><pre><span class=\"k\">SELECT</span> <span class=\"n\">user</span> <span class=\"k\">FROM</span> <span class=\"n\">mysql</span><span class=\"p\">.</span><span class=\"n\">db</span> <span class=\"k\">WHERE</span> <span class=\"n\">db</span><span class=\"o\">=</span><span class=\"s1\">&#39;database_name&#39;</span><span class=\"p\">;</span>\n</pre></div>",
+      "date_created": "2016-01-10T22:20:29Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "display-all-users-that-can-access-database-x",
+      "status": 2,
+      "title": "Display all users that can access database 'X'",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 11
+  },
+  {
+    "fields": {
+      "content": "<p>If you If you want to find out about the structure of a table, the <code>DESCRIBE</code> statement is useful; it displays information about each of a table's columns:</p>\n<div class=\"codehilite\"><pre><span class=\"k\">DESCRIBE</span> <span class=\"n\">tablename</span><span class=\"p\">;</span>\n</pre></div>\n\n\n<p>For more information see <a href=\"http://dev.mysql.com/doc/refman/5.7/en/getting-information.html\">here</a></p>",
+      "date_created": "2016-01-10T22:21:16Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "display-the-structure-of-a-mysql-table",
+      "status": 2,
+      "title": "Display the structure of a MySQL table",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 12
+  },
+  {
+    "fields": {
+      "content": "<p>Here is a super simple SQL query to determine the size of all tables in a given database:</p>\n<div class=\"codehilite\"><pre><span class=\"k\">SELECT</span> <span class=\"n\">TABLE_NAME</span> <span class=\"k\">as</span> <span class=\"ss\">`TABLE`</span><span class=\"p\">,</span> <span class=\"nf\">round</span><span class=\"p\">(((</span><span class=\"n\">data_length</span> <span class=\"o\">+</span> <span class=\"n\">index_length</span><span class=\"p\">)</span> <span class=\"o\">/</span> <span class=\"mi\">1024</span> <span class=\"o\">/</span> <span class=\"mi\">1024</span><span class=\"p\">),</span> <span class=\"mi\">2</span><span class=\"p\">)</span> <span class=\"ss\">`Size in MB`</span> \n<span class=\"k\">FROM</span> <span class=\"n\">information_schema</span><span class=\"p\">.</span><span class=\"kp\">TABLES</span> \n<span class=\"k\">WHERE</span> <span class=\"n\">table_schema</span> <span class=\"o\">=</span> <span class=\"s2\">&quot;my_database_name&quot;</span> \n<span class=\"k\">AND</span> <span class=\"n\">table_name</span> <span class=\"o\">=</span> <span class=\"s2\">&quot;my_table_name&quot;</span><span class=\"p\">;</span>\n</pre></div>",
+      "date_created": "2016-01-10T22:22:05Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "get-database-table-sizes",
+      "status": 2,
+      "title": "Get database table sizes",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 13
+  },
+  {
+    "fields": {
+      "content": "<p>Once installed, you can upgrade to the later version of Jenkins by running:</p>\n<div class=\"codehilite\"><pre>sudo apt-get update\nsudo apt-get install jenkins\n</pre></div>",
+      "date_created": "2016-01-10T22:31:27Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "how-to-upgrade-jenkins-in-ubuntu",
+      "status": 2,
+      "title": "How to upgrade Jenkins in Ubuntu",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 15
+  },
+  {
+    "fields": {
+      "content": "<p>Here is a little example on how to print the time it took for a function to execute/complete.</p>\n<div class=\"codehilite\"><pre><span class=\"kn\">import</span> <span class=\"nn\">time</span>\n\n\n<span class=\"k\">def</span> <span class=\"nf\">how_long</span><span class=\"p\">(</span><span class=\"n\">x</span><span class=\"p\">):</span>\n    <span class=\"n\">t0</span> <span class=\"o\">=</span> <span class=\"n\">time</span><span class=\"o\">.</span><span class=\"n\">time</span><span class=\"p\">()</span>\n    <span class=\"k\">for</span> <span class=\"n\">n</span> <span class=\"ow\">in</span> <span class=\"nb\">range</span><span class=\"p\">(</span><span class=\"n\">x</span><span class=\"p\">):</span>\n        <span class=\"n\">j</span> <span class=\"o\">=</span> <span class=\"n\">n</span> <span class=\"o\">*</span> <span class=\"n\">x</span>\n    <span class=\"k\">print</span> <span class=\"s\">&#39;Total time: {} sec&#39;</span><span class=\"o\">.</span><span class=\"n\">format</span><span class=\"p\">(</span><span class=\"nb\">str</span><span class=\"p\">(</span><span class=\"n\">time</span><span class=\"o\">.</span><span class=\"n\">time</span><span class=\"p\">()</span> <span class=\"o\">-</span> <span class=\"n\">t0</span><span class=\"p\">))</span>\n\n<span class=\"n\">how_long</span><span class=\"p\">(</span><span class=\"mi\">100000</span><span class=\"p\">)</span>\n</pre></div>",
+      "date_created": "2016-01-13T17:01:13Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "function-execution-duration",
+      "status": 2,
+      "title": "Function execution duration",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 17
+  },
+  {
+    "fields": {
+      "content": "<p>Here is a command to reload the unity desktop notification panel, in Ubuntu, without restarting the entire system:</p>\n<div class=\"codehilite\"><pre>killall unity-panel-service\n</pre></div>\n\n\n<p>As soon as the process is killed, a new one will be spawned, refreshing the notification panel. This is useful if you have duplicate icons from frozen apps in the panel.</p>",
+      "date_created": "2016-01-13T22:07:09Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "reload-unity-panel-in-ubuntu-without-restarting",
+      "status": 2,
+      "title": "Reload Unity Panel in Ubuntu Without Restarting",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 18
+  },
+  {
+    "fields": {
+      "content": "<p>To recursively remove all those pesky .pyc files from  your folder and sub-folders, run this command:</p>\n<div class=\"codehilite\"><pre>find . -name <span class=\"s2\">&quot;*.pyc&quot;</span> -exec rm -f <span class=\"o\">{}</span> <span class=\"se\">\\;</span>\n</pre></div>\n\n\n<p>or </p>\n<div class=\"codehilite\"><pre>find . -name <span class=\"s2\">&quot;*.pyc&quot;</span> -delete\n</pre></div>",
+      "date_created": "2016-01-14T13:36:32Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "remove-all-pyc-file-in-the-current-folder-and-sub-folders",
+      "status": 2,
+      "title": "Remove all .pyc file in the current folder and sub-folders",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 19
+  },
+  {
+    "fields": {
+      "content": "<p>The problem is that both in master and in your branch some files have been changed, and their going in different directions.</p>\n<p>The content of the file in master is different from the one in your feature_branch, and git does not know which one to pick, or how to integrate them.</p>\n<p>To solve this, you need to:</p>\n<ol>\n<li>Get the latest upstream/master</li>\n</ol>\n<div class=\"codehilite\"><pre>git fetch upstream\n</pre></div>\n\n\n<ol>\n<li>Switch to your master</li>\n</ol>\n<div class=\"codehilite\"><pre>git checkout master\n</pre></div>\n\n\n<ol>\n<li>Merge the latest master in your master (Never develop in master, always develop in a feature branch)</li>\n</ol>\n<div class=\"codehilite\"><pre>git merge upstream/master\n</pre></div>\n\n\n<ol>\n<li>Switch to your feature branch</li>\n</ol>\n<div class=\"codehilite\"><pre>git checkout my_feature_branch\n</pre></div>\n\n\n<ol>\n<li>Merge master in your feature branch</li>\n</ol>\n<div class=\"codehilite\"><pre>git merge master\n</pre></div>\n\n\n<ol>\n<li>Solve all the conflicts: this is where you decide how to integrate the conflicting files, and this can be done only by you because you know what you did, you can figure out what happened in master, and pick the best way to integrate them.</li>\n</ol>\n<div class=\"codehilite\"><pre>git mergetool\n</pre></div>\n\n\n<ol>\n<li>Commit all the changes, after all the conflicts are solved</li>\n</ol>\n<div class=\"codehilite\"><pre>git commit -m <span class=\"s2\">&quot;Decent commit message&quot;</span>\n</pre></div>\n\n\n<ol>\n<li>Push your feature branch to your origin: the Pull Request will automatically update</li>\n</ol>\n<div class=\"codehilite\"><pre>git push origin my_feature_branch\n</pre></div>\n\n\n<p>All this information was taken from <a href=\"http://blog.michelemattioni.me/2013/01/29/what-do-i-do-when-my-pull-request-does-not-merge-automatically-in-master/\">http://blog.michelemattioni.me/</a></p>",
+      "date_created": "2016-01-21T09:23:07Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "what-to-do-when-my-pull-request-does-not-merge-automatically-in-master",
+      "status": 2,
+      "title": "What to do when my Pull Request does not merge automatically in master",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 20
+  },
+  {
+    "fields": {
+      "content": "<div class=\"codehilite\"><pre>sudo su - jenkins\n</pre></div>\n\n\n<p>Switches you to Jenkins home directory <code>/var/lib/jenkins</code></p>",
+      "date_created": "2016-01-24T22:59:24Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "login-to-jenkins-box",
+      "status": 2,
+      "title": "Login to Jenkins Box",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 21
+  },
+  {
+    "fields": {
+      "content": "<p>If you trying to get Github to send build triggers to your local Jenkins, the first thing you need to know is that Github webhook mechanism relies on a public IP or DNS to work.</p>\n<p>So if you use http://localhost:8080/github-webhook or http://127.0.0.1:8080/github-webhook it won't work, simply because Github will treat either localhost:8080 and 127.0.0.1 to itself and not the local Jenkins server. </p>\n<p>In other words it won't be able to find where your Jenkins is.</p>\n<p>See <a href=\"http://stackoverflow.com/questions/30816627/jenkins-github-build-maven-project-when-change-is-pushed-doesnt-work\">StackOverflow Answer here</a></p>",
+      "date_created": "2016-02-07T20:22:19Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "github-webhook-mechanism",
+      "status": 3,
+      "title": "Github webhook mechanism",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 22
+  },
+  {
+    "fields": {
+      "content": "<p>Get the object from the database if it already exists (based on provided parameters) or create it if it does not.</p>\n<div class=\"codehilite\"><pre><span class=\"k\">def</span>  <span class=\"nf\">get_or_create</span><span class=\"p\">(</span><span class=\"n\">session</span><span class=\"p\">,</span> <span class=\"n\">model</span><span class=\"p\">,</span> <span class=\"o\">**</span><span class=\"n\">kwargs</span><span class=\"p\">):</span>\n    <span class=\"n\">instance</span> <span class=\"o\">=</span> <span class=\"n\">session</span><span class=\"o\">.</span><span class=\"n\">query</span><span class=\"p\">(</span><span class=\"n\">model</span><span class=\"p\">)</span><span class=\"o\">.</span><span class=\"n\">filter_by</span><span class=\"p\">(</span><span class=\"o\">**</span><span class=\"n\">kwargs</span><span class=\"p\">)</span><span class=\"o\">.</span><span class=\"n\">first</span><span class=\"p\">()</span>\n    <span class=\"k\">if</span> <span class=\"n\">instance</span><span class=\"p\">:</span>\n        <span class=\"k\">return</span> <span class=\"n\">instance</span>\n    <span class=\"k\">else</span><span class=\"p\">:</span>\n        <span class=\"n\">instance</span> <span class=\"o\">=</span> <span class=\"n\">model</span><span class=\"p\">(</span><span class=\"o\">**</span><span class=\"n\">kwargs</span><span class=\"p\">)</span>\n        <span class=\"n\">session</span><span class=\"o\">.</span><span class=\"n\">add</span><span class=\"p\">(</span><span class=\"n\">instance</span><span class=\"p\">)</span>\n        <span class=\"n\">session</span><span class=\"o\">.</span><span class=\"n\">commit</span><span class=\"p\">()</span>\n        <span class=\"k\">return</span> <span class=\"n\">instance</span>\n</pre></div>\n\n\n<p>with the code above you are now able to get_or_create any object of your model, for example lets suppose you have a model object like:</p>\n<div class=\"codehilite\"><pre><span class=\"k\">class</span> <span class=\"nc\">Country</span><span class=\"p\">(</span><span class=\"n\">Base</span><span class=\"p\">):</span>\n    <span class=\"n\">__tablename__</span> <span class=\"o\">=</span> <span class=\"s\">&#39;countries&#39;</span>\n    <span class=\"nb\">id</span> <span class=\"o\">=</span> <span class=\"n\">Column</span><span class=\"p\">(</span><span class=\"n\">Integer</span><span class=\"p\">,</span> <span class=\"n\">primary_key</span><span class=\"o\">=</span><span class=\"bp\">True</span><span class=\"p\">)</span>\n    <span class=\"n\">name</span> <span class=\"o\">=</span> <span class=\"n\">Column</span><span class=\"p\">(</span><span class=\"n\">String</span><span class=\"p\">,</span> <span class=\"n\">unique</span><span class=\"o\">=</span><span class=\"bp\">True</span><span class=\"p\">)</span>\n</pre></div>\n\n\n<p>so to get_or_create your object all you have to do is:</p>\n<div class=\"codehilite\"><pre><span class=\"n\">my_country</span> <span class=\"o\">=</span> <span class=\"n\">get_or_create</span><span class=\"p\">(</span><span class=\"n\">session</span><span class=\"p\">,</span> <span class=\"n\">Country</span><span class=\"p\">,</span> <span class=\"n\">name</span><span class=\"o\">=</span><span class=\"s\">&#39;Portugal&#39;</span><span class=\"p\">)</span>\n</pre></div>",
+      "date_created": "2016-02-07T20:37:23Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "sqlalchemy-equivalent-of-djangos-get_or_create",
+      "status": 2,
+      "title": "SQLAlchemy equivalent of Django's get_or_create",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 23
+  },
+  {
+    "fields": {
+      "content": "<p>To find the path for the directory of a given file you can do:</p>\n<div class=\"codehilite\"><pre><span class=\"n\">os</span><span class=\"o\">.</span><span class=\"n\">path</span><span class=\"o\">.</span><span class=\"n\">dirname</span><span class=\"p\">(</span><span class=\"n\">os</span><span class=\"o\">.</span><span class=\"n\">path</span><span class=\"o\">.</span><span class=\"n\">realpath</span><span class=\"p\">(</span><span class=\"n\">__file__</span><span class=\"p\">))</span>\n</pre></div>\n\n\n<p>To get the working directory use <code>os.getcwd()</code>. <code>realpath()</code> returns the canonical path of a specified file name. For a full list of <code>os.path</code> functions visit the <a href=\"https://docs.python.org/2/library/os.path.html\">manual</a>.</p>\n<p>Additionally you may find the template below useful as a reference:</p>\n<div class=\"codehilite\"><pre><span class=\"kn\">import</span> <span class=\"nn\">os</span>\n\n<span class=\"k\">print</span> <span class=\"p\">(</span><span class=\"s\">&quot;Path at terminal when executing this file&quot;</span><span class=\"p\">)</span>\n<span class=\"k\">print</span> <span class=\"p\">(</span><span class=\"n\">os</span><span class=\"o\">.</span><span class=\"n\">getcwd</span><span class=\"p\">()</span> <span class=\"o\">+</span> <span class=\"s\">&quot;</span><span class=\"se\">\\n</span><span class=\"s\">&quot;</span><span class=\"p\">)</span>\n\n<span class=\"k\">print</span> <span class=\"p\">(</span><span class=\"s\">&quot;This file path, relative to os.getcwd()&quot;</span><span class=\"p\">)</span>\n<span class=\"k\">print</span> <span class=\"p\">(</span><span class=\"n\">__file__</span> <span class=\"o\">+</span> <span class=\"s\">&quot;</span><span class=\"se\">\\n</span><span class=\"s\">&quot;</span><span class=\"p\">)</span>\n\n<span class=\"k\">print</span> <span class=\"p\">(</span><span class=\"s\">&quot;This file full path (following symlinks)&quot;</span><span class=\"p\">)</span>\n<span class=\"n\">full_path</span> <span class=\"o\">=</span> <span class=\"n\">os</span><span class=\"o\">.</span><span class=\"n\">path</span><span class=\"o\">.</span><span class=\"n\">realpath</span><span class=\"p\">(</span><span class=\"n\">__file__</span><span class=\"p\">)</span>\n<span class=\"k\">print</span> <span class=\"p\">(</span><span class=\"n\">full_path</span> <span class=\"o\">+</span> <span class=\"s\">&quot;</span><span class=\"se\">\\n</span><span class=\"s\">&quot;</span><span class=\"p\">)</span>\n\n<span class=\"k\">print</span> <span class=\"p\">(</span><span class=\"s\">&quot;This file directory and name&quot;</span><span class=\"p\">)</span>\n<span class=\"n\">path</span><span class=\"p\">,</span> <span class=\"n\">filename</span> <span class=\"o\">=</span> <span class=\"n\">os</span><span class=\"o\">.</span><span class=\"n\">path</span><span class=\"o\">.</span><span class=\"n\">split</span><span class=\"p\">(</span><span class=\"n\">full_path</span><span class=\"p\">)</span>\n<span class=\"k\">print</span> <span class=\"p\">(</span><span class=\"n\">path</span> <span class=\"o\">+</span> <span class=\"s\">&#39; --&gt; &#39;</span> <span class=\"o\">+</span> <span class=\"n\">filename</span> <span class=\"o\">+</span> <span class=\"s\">&quot;</span><span class=\"se\">\\n</span><span class=\"s\">&quot;</span><span class=\"p\">)</span>\n\n<span class=\"k\">print</span> <span class=\"p\">(</span><span class=\"s\">&quot;This file directory only&quot;</span><span class=\"p\">)</span>\n<span class=\"k\">print</span> <span class=\"p\">(</span><span class=\"n\">os</span><span class=\"o\">.</span><span class=\"n\">path</span><span class=\"o\">.</span><span class=\"n\">dirname</span><span class=\"p\">(</span><span class=\"n\">full_path</span><span class=\"p\">))</span>\n</pre></div>",
+      "date_created": "2016-02-07T20:50:26Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "find-current-directory-and-files-directory",
+      "status": 2,
+      "title": "Find current directory and file's directory",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 24
+  },
+  {
+    "fields": {
+      "content": "<p>Jenkins installation:</p>\n<div class=\"codehilite\"><pre>1 <span class=\"o\">-</span> <span class=\"n\">download</span> <span class=\"n\">Jenkins</span> <span class=\"k\">for</span> <span class=\"n\">your</span> <span class=\"n\">Operating</span> <span class=\"n\">System</span> <span class=\"n\">https</span><span class=\"p\">:</span><span class=\"o\">//</span><span class=\"n\">wiki</span><span class=\"p\">.</span><span class=\"n\">jenkins</span><span class=\"o\">-</span><span class=\"n\">ci</span><span class=\"p\">.</span><span class=\"n\">org</span><span class=\"o\">/</span><span class=\"n\">display</span><span class=\"o\">/</span><span class=\"n\">JENKINS</span><span class=\"o\">/</span><span class=\"n\">Installing</span><span class=\"o\">+</span><span class=\"n\">Jenkins</span><span class=\"o\">+</span><span class=\"n\">on</span><span class=\"o\">+</span><span class=\"n\">Ubuntu</span>\n</pre></div>\n\n\n<p>Jenkins configuration</p>\n<div class=\"codehilite\"><pre><span class=\"n\">The</span> <span class=\"s\">&#39;jenkins&#39;</span> <span class=\"n\">user</span> <span class=\"n\">is</span> <span class=\"n\">created</span> <span class=\"n\">to</span> <span class=\"n\">run</span> <span class=\"n\">this</span> <span class=\"n\">service</span><span class=\"p\">.</span>\n<span class=\"n\">Jenkins</span> <span class=\"n\">stores</span> <span class=\"n\">all</span> <span class=\"n\">the</span> <span class=\"n\">settings</span><span class=\"p\">,</span> <span class=\"n\">logs</span> <span class=\"n\">and</span> <span class=\"n\">build</span> <span class=\"n\">artifacts</span> <span class=\"n\">in</span> <span class=\"n\">its</span> <span class=\"n\">home</span> <span class=\"n\">directory</span><span class=\"p\">.</span> <span class=\"n\">The</span> <span class=\"n\">default</span> <span class=\"n\">installation</span> <span class=\"n\">directory</span> <span class=\"n\">is</span> <span class=\"o\">/</span><span class=\"n\">var</span><span class=\"o\">/</span><span class=\"n\">lib</span><span class=\"o\">/</span><span class=\"n\">jenkins</span> <span class=\"n\">under</span> <span class=\"n\">Ubuntu</span><span class=\"p\">.</span>\n<span class=\"n\">This</span> <span class=\"n\">creates</span> <span class=\"n\">a</span> <span class=\"o\">/</span><span class=\"n\">etc</span><span class=\"o\">/</span><span class=\"n\">init</span><span class=\"p\">.</span><span class=\"n\">d</span><span class=\"o\">/</span><span class=\"n\">jenkins</span> <span class=\"n\">start</span> <span class=\"n\">script</span> <span class=\"n\">which</span> <span class=\"n\">starts</span> <span class=\"n\">Jenkins</span> <span class=\"n\">automatically</span> <span class=\"n\">at</span> <span class=\"n\">boot</span> <span class=\"n\">time</span><span class=\"p\">.</span> <span class=\"n\">If</span> <span class=\"n\">you</span> <span class=\"n\">installed</span> <span class=\"n\">Jenkins</span> <span class=\"n\">locally</span><span class=\"p\">,</span> <span class=\"n\">you</span> <span class=\"nb\">find</span> <span class=\"n\">it</span> <span class=\"n\">running</span> <span class=\"n\">under</span> <span class=\"n\">the</span> <span class=\"n\">following</span> <span class=\"n\">URL</span><span class=\"p\">:</span> <span class=\"n\">http</span><span class=\"p\">:</span><span class=\"o\">//</span><span class=\"n\">localhost</span><span class=\"p\">:</span>8080<span class=\"o\">/</span>\n<span class=\"n\">Log</span> <span class=\"n\">file</span> <span class=\"n\">will</span> <span class=\"n\">be</span> <span class=\"n\">placed</span> <span class=\"n\">in</span> <span class=\"o\">/</span><span class=\"n\">var</span><span class=\"o\">/</span><span class=\"nb\">log</span><span class=\"o\">/</span><span class=\"n\">jenkins</span><span class=\"o\">/</span><span class=\"n\">jenkins</span><span class=\"p\">.</span><span class=\"nb\">log</span><span class=\"p\">.</span>\n<span class=\"o\">/</span><span class=\"n\">etc</span><span class=\"o\">/</span><span class=\"n\">default</span><span class=\"o\">/</span><span class=\"n\">jenkins</span> <span class=\"n\">will</span> <span class=\"n\">capture</span> <span class=\"n\">configuration</span> <span class=\"n\">parameters</span> <span class=\"k\">for</span> <span class=\"n\">the</span> <span class=\"n\">launch</span> <span class=\"n\">like</span> <span class=\"n\">e</span><span class=\"p\">.</span><span class=\"n\">g</span> <span class=\"n\">JENKINS_HOME</span><span class=\"p\">.</span>\n<span class=\"n\">By</span> <span class=\"n\">default</span> <span class=\"n\">jenkins</span> <span class=\"n\">listen</span> <span class=\"n\">on</span> <span class=\"n\">port</span><span class=\"p\">:</span>8080<span class=\"p\">.</span> <span class=\"n\">Access</span> <span class=\"n\">this</span> <span class=\"n\">port</span> <span class=\"n\">with</span> <span class=\"n\">your</span> <span class=\"n\">browser</span> <span class=\"n\">to</span> <span class=\"n\">start</span> <span class=\"n\">configuration</span><span class=\"p\">.</span>\n\n<span class=\"n\">To</span> <span class=\"n\">restart</span> <span class=\"n\">jenkins</span> <span class=\"n\">using</span> <span class=\"n\">terminal</span><span class=\"p\">:</span>\n    <span class=\"n\">sudo</span> <span class=\"o\">/</span><span class=\"n\">etc</span><span class=\"o\">/</span><span class=\"n\">init</span><span class=\"p\">.</span><span class=\"n\">d</span><span class=\"o\">/</span><span class=\"n\">jenkins</span> <span class=\"n\">restart</span>\n\n<span class=\"n\">You</span> <span class=\"n\">can</span> <span class=\"n\">also</span> <span class=\"n\">make</span> <span class=\"n\">use</span> <span class=\"n\">of</span> <span class=\"n\">your</span> <span class=\"n\">browser</span> <span class=\"n\">to</span> <span class=\"n\">restart</span> <span class=\"n\">jenkins</span>\n    <span class=\"p\">(</span><span class=\"n\">jenkins_url</span><span class=\"p\">)</span><span class=\"o\">/</span><span class=\"n\">safeRestart</span> <span class=\"o\">-</span> <span class=\"n\">Allows</span> <span class=\"n\">all</span> <span class=\"n\">running</span> <span class=\"n\">jobs</span> <span class=\"n\">to</span> <span class=\"n\">complete</span><span class=\"p\">.</span> <span class=\"n\">New</span> <span class=\"n\">jobs</span> <span class=\"n\">will</span> <span class=\"n\">remain</span> <span class=\"n\">in</span> <span class=\"n\">the</span> <span class=\"n\">queue</span> <span class=\"n\">to</span> <span class=\"n\">run</span> <span class=\"n\">after</span> <span class=\"n\">the</span> <span class=\"n\">restart</span> <span class=\"n\">is</span> <span class=\"n\">complete</span><span class=\"p\">.</span>\n\n    <span class=\"p\">(</span><span class=\"n\">jenkins_url</span><span class=\"p\">)</span><span class=\"o\">/</span><span class=\"n\">restart</span> <span class=\"o\">-</span> <span class=\"n\">Forces</span> <span class=\"n\">a</span> <span class=\"n\">restart</span> <span class=\"n\">without</span> <span class=\"n\">waiting</span> <span class=\"k\">for</span> <span class=\"n\">builds</span> <span class=\"n\">to</span> <span class=\"n\">complete</span><span class=\"p\">.</span>\n\n<span class=\"n\">Configure</span> <span class=\"n\">the</span> <span class=\"n\">JDK</span> <span class=\"n\">location</span>\n    <span class=\"n\">Before</span> <span class=\"n\">using</span> <span class=\"n\">Jenkins</span> <span class=\"n\">to</span> <span class=\"n\">build</span> <span class=\"n\">your</span> <span class=\"n\">jobs</span><span class=\"p\">,</span> <span class=\"n\">you</span> <span class=\"n\">need</span> <span class=\"n\">to</span> <span class=\"n\">tell</span> <span class=\"n\">it</span> <span class=\"n\">where</span> <span class=\"n\">to</span> <span class=\"nb\">find</span> <span class=\"n\">the</span> <span class=\"n\">JDK</span> <span class=\"n\">installation</span><span class=\"p\">.</span> <span class=\"n\">Select</span> <span class=\"n\">Manage</span> <span class=\"n\">Jenkins</span> <span class=\"n\">and</span> <span class=\"n\">afterwards</span> <span class=\"n\">Configure</span> <span class=\"n\">System</span><span class=\"p\">.</span>\n\n    <span class=\"n\">Enter</span> <span class=\"n\">the</span> <span class=\"n\">correct</span> <span class=\"n\">path</span> <span class=\"n\">to</span> <span class=\"n\">your</span> <span class=\"n\">JDK</span><span class=\"p\">,</span> <span class=\"n\">Apache</span> <span class=\"n\">Ant</span> <span class=\"n\">and</span> <span class=\"n\">Maven</span> <span class=\"n\">and</span> <span class=\"n\">press</span> <span class=\"n\">the</span> <span class=\"n\">Save</span> <span class=\"n\">button</span> <span class=\"n\">below</span><span class=\"p\">.</span> <span class=\"n\">Jenkins</span> <span class=\"n\">can</span> <span class=\"n\">also</span> <span class=\"n\">install</span> <span class=\"n\">these</span> <span class=\"k\">for</span> <span class=\"n\">your</span> <span class=\"n\">automatically</span><span class=\"p\">.</span>\n\n<span class=\"n\">Generate</span> <span class=\"n\">ssh</span> <span class=\"n\">key</span> <span class=\"k\">for</span> <span class=\"n\">Jenkins</span> <span class=\"n\">user</span>\n    <span class=\"n\">If</span> <span class=\"n\">you</span> <span class=\"n\">want</span> <span class=\"n\">to</span> <span class=\"n\">access</span> <span class=\"n\">private</span> <span class=\"n\">Git</span> <span class=\"n\">repo</span><span class=\"p\">,</span> <span class=\"n\">you</span> <span class=\"n\">need</span> <span class=\"n\">to</span> <span class=\"n\">generate</span> <span class=\"n\">an</span> <span class=\"n\">ssh</span> <span class=\"n\">key</span><span class=\"o\">-</span><span class=\"n\">pair</span><span class=\"p\">.</span> <span class=\"n\">Create</span> <span class=\"n\">a</span> <span class=\"n\">ssh</span> <span class=\"n\">key</span> <span class=\"k\">for</span> <span class=\"n\">the</span> <span class=\"n\">user</span> <span class=\"n\">Jenkins</span> <span class=\"n\">with</span> <span class=\"n\">the</span> <span class=\"n\">following</span> <span class=\"n\">command</span><span class=\"p\">:</span>\n        <span class=\"n\">sudo</span> <span class=\"o\">-</span><span class=\"n\">u</span> <span class=\"n\">jenkins</span> <span class=\"n\">ssh</span><span class=\"o\">-</span><span class=\"n\">keygen</span>\n        <span class=\"n\">DO</span> <span class=\"n\">NOT</span> <span class=\"n\">SET</span> <span class=\"n\">THE</span> <span class=\"n\">PASSWORD</span><span class=\"p\">,</span> <span class=\"k\">otherwise</span> <span class=\"n\">jenkins</span> <span class=\"n\">user</span> <span class=\"n\">will</span> <span class=\"n\">not</span> <span class=\"n\">be</span> <span class=\"n\">able</span> <span class=\"n\">to</span> <span class=\"n\">connect</span> <span class=\"n\">to</span> <span class=\"n\">the</span> <span class=\"n\">git</span> <span class=\"n\">repo</span> <span class=\"n\">in</span> <span class=\"n\">an</span> <span class=\"n\">automated</span> <span class=\"n\">way</span><span class=\"p\">.</span>\n        <span class=\"n\">This</span> <span class=\"n\">command</span> <span class=\"n\">will</span> <span class=\"n\">save</span> <span class=\"n\">the</span> <span class=\"n\">public</span> <span class=\"n\">key</span> <span class=\"n\">in</span> <span class=\"o\">/</span><span class=\"n\">var</span><span class=\"o\">/</span><span class=\"n\">lib</span><span class=\"o\">/</span><span class=\"n\">jenkins</span><span class=\"o\">/</span><span class=\"p\">.</span><span class=\"n\">ssh</span><span class=\"o\">/</span><span class=\"n\">id_rsa</span><span class=\"p\">.</span><span class=\"n\">pub</span>\n    <span class=\"n\">Add</span> <span class=\"n\">the</span> <span class=\"n\">public</span> <span class=\"n\">key</span> <span class=\"n\">to</span> <span class=\"n\">your</span> <span class=\"n\">Git</span> <span class=\"n\">repo</span> <span class=\"p\">(</span><span class=\"n\">https</span><span class=\"p\">:</span><span class=\"o\">//</span><span class=\"n\">github</span><span class=\"p\">.</span><span class=\"n\">com</span><span class=\"o\">/</span><span class=\"n\">settings</span><span class=\"o\">/</span><span class=\"n\">ssh</span><span class=\"p\">)</span>\n</pre></div>\n\n\n<p>Jenkins upgrade:</p>\n<div class=\"codehilite\"><pre><span class=\"n\">https</span><span class=\"p\">:</span><span class=\"o\">//</span><span class=\"n\">wiki</span><span class=\"p\">.</span><span class=\"n\">jenkins</span><span class=\"o\">-</span><span class=\"n\">ci</span><span class=\"p\">.</span><span class=\"n\">org</span><span class=\"o\">/</span><span class=\"n\">display</span><span class=\"o\">/</span><span class=\"n\">JENKINS</span><span class=\"o\">/</span><span class=\"n\">Installing</span><span class=\"o\">+</span><span class=\"n\">Jenkins</span><span class=\"o\">+</span><span class=\"n\">on</span><span class=\"o\">+</span><span class=\"n\">Ubuntu</span>\n</pre></div>\n\n\n<p>View list of keys in your system (Ubuntu tested only):\n    open terminal and type:\n    apt-key list</p>",
+      "date_created": "2016-02-08T09:18:42Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "wip-jenkins-installationconfiguration",
+      "status": 1,
+      "title": "WIP Jenkins installation/configuration",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 25
+  },
+  {
+    "fields": {
+      "content": "<p>To dump (backup) your database data into a <code>.sql</code> file, run:</p>\n<div class=\"codehilite\"><pre>mysqldump -u root -p database_name &gt; database_dump_file.sql\n<span class=\"c\"># you will be asked to provide the root password</span>\n</pre></div>\n\n\n<p>Back up your MySQL Database with Compress</p>\n<p>If your mysql database is very big, you might want to compress the output of mysqldump. Just use the mysql backup command below and pipe the output to gzip, then you will get the output as gzip file.</p>\n<div class=\"codehilite\"><pre>mysqldump -u root -p database_name | gzip -9 &gt; database_backup_file.sql.gz\n</pre></div>\n\n\n<p>To restore your database from a <code>.sql</code> file:</p>\n<ol>\n<li>Create an appropriately named database on the target machine;</li>\n<li>Load the file using the mysql command;</li>\n</ol>\n<div class=\"codehilite\"><pre>mysql -u root -p database_name &lt; database_backup_file.sql\n</pre></div>\n\n\n<p>To restore compressed backup files you can do the following:</p>\n<div class=\"codehilite\"><pre>gunzip &lt; backup_file.sql.gz | mysql -u root -p database_name\n</pre></div>\n\n\n<p>If you need to restore a database that already exists, you'll need to use mysqlimport command. The syntax for mysqlimport is as follows:</p>\n<div class=\"codehilite\"><pre>mysqlimport -u root -p database_name backup_database_file.sql\n</pre></div>",
+      "date_created": "2016-02-10T13:04:01Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "mysql-backup-and-restore-database",
+      "status": 2,
+      "title": "MySQL backup and restore database",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 26
+  },
+  {
+    "fields": {
+      "content": "<p>From the <code>man git-stash</code> page:</p>\n<p>Show the changes recorded in the stash as a diff between the stashed state and its original parent. When no <stash> is given, shows the latest one. </p>\n<p>By default, the command shows the diffstat, but it will accept any format known to git diff (e.g., <code>git stash show -p stash@{1}</code> to view the second most recent stash in patch form).</p>\n<p>To view the content of an arbitrary stash, run something like</p>\n<div class=\"codehilite\"><pre>git stash show -p stash@<span class=\"o\">{</span>1<span class=\"o\">}</span>\n</pre></div>",
+      "date_created": "2016-02-11T15:50:21Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "git-show-diff-between-the-stashed-changes-and-the-original-parent",
+      "status": 2,
+      "title": "Git show diff between the stashed changes and the original parent",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 27
+  },
+  {
+    "fields": {
+      "content": "<p>Setting your branch to an exact match of the remote branch can be done in two steps:</p>\n<div class=\"codehilite\"><pre>git fetch origin\ngit reset --hard origin/branch_name\n<span class=\"c\"># followed by </span>\ngit clean -d -f \n<span class=\"c\"># removes local untracked directories and files</span>\n</pre></div>",
+      "date_created": "2016-03-08T14:14:56Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "reset-local-branch-to-an-exact-match-of-the-remote-branch",
+      "status": 2,
+      "title": "Reset local branch to an exact match of the remote branch",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 30
+  },
+  {
+    "fields": {
+      "content": "<p>I'm trying to use alembic to handle local migrations on my project. It worked the first time, but them I needed to delete the folder and restart. I'm following this tutorial and I run the command:    </p>\n<p><code>python manage.py db migrate</code>    </p>\n<p>I'm getting this error:    </p>\n<p><code>alembic.util.CommandError: Can't locate revision identified by '31b8ab83c7d'</code>    </p>\n<p>Alembic stores the version history in your database. Hence it is using the value stored in your database to search for the revision. The version number for my personal database is stored in the table alembic_version:</p>\n<div class=\"codehilite\"><pre>mysql&gt; SELECT * FROM alembic_version;\n+-------------+\n| version_num |\n+-------------+\n| c8ad125e063 |\n+-------------+\n1 row in <span class=\"nb\">set</span> <span class=\"o\">(</span>0.00 sec<span class=\"o\">)</span>\n</pre></div>\n\n\n<p>Hint: Use the command SHOW TABLES if it's a SQL based database to see the tables.</p>\n<p>To solve your problem simply use the command:</p>\n<p>DROP TABLE alembic_version;\nOr whatever the name of database version table is. And then you need to re-init the migration folder using the command:</p>\n<p>python manage.py db init\nAnd then creating a new migration:</p>\n<p>python manage.py db migrate\nAnd then you should be good to go with working migrations in alembic.</p>\n<p>for more info check <a href=\"http://stackoverflow.com/a/32356600\">stackoverflow</a></p>",
+      "date_created": "2016-03-17T10:13:48Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "alembic-cant-locate-revision",
+      "status": 2,
+      "title": "Alembic can't locate revision",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 31
+  },
+  {
+    "fields": {
+      "content": "<p>To remove all packages you have installed in your virtualenv or virtualenvwrapper, execute:</p>\n<div class=\"codehilite\"><pre>pip freeze | xargs pip uninstall -y\n</pre></div>\n\n\n<p>If you now check the packages installed with <code>pip freeze</code> you will see that you have nothing installed.</p>\n<p>For more info check <a href=\"http://stackoverflow.com/a/11250821\">stackoverflow</a></p>",
+      "date_created": "2016-03-17T10:18:51Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "remove-all-packages-installed-by-pip",
+      "status": 2,
+      "title": "Remove all packages installed by pip",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 32
+  },
+  {
+    "fields": {
+      "content": "<p>Try:</p>\n<div class=\"codehilite\"><pre>stat -c <span class=\"s2\">&quot;%a %n&quot;</span> *\n</pre></div>\n\n\n<p>Replace * with the relevant directory or the exact filename that you want to examine.</p>\n<div class=\"codehilite\"><pre>-c  --format<span class=\"o\">=</span>FORMAT\n          use  the  specified  FORMAT instead of the default; output a newline after\n          each use of FORMAT\n%a     Access rights in octal\n%n     File name\n</pre></div>",
+      "date_created": "2016-04-04T07:53:16Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "how-to-get-file-permissions-in-octal-mode",
+      "status": 1,
+      "title": "How to get file permissions in octal mode",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 34
+  },
+  {
+    "fields": {
+      "content": "<p>At some point you will likely find yourself writing a script that needs to run all the time in the background.</p>\n<p>To accomplish this, we need something to watch these scripts. Such tools are process watchers. They watch processes and restart them if they fail, and ensure they start on system boot.</p>\n<h3>Example Script</h3>\n<p>As an example lets assume we have an executable shell script we wish to keep persistently running that we have saved at <code>/home/user/current_date.sh</code> and looks like the following:</p>\n<div class=\"codehilite\"><pre><span class=\"c\">#!/bin/bash</span>\n<span class=\"k\">while </span><span class=\"nb\">true</span>\n<span class=\"k\">do</span> \n    <span class=\"c\"># Echo current date to stdout</span>\n    <span class=\"nb\">echo</span> <span class=\"s1\">&#39;Hello, the current date is:&#39;</span> <span class=\"sb\">`</span>date<span class=\"sb\">`</span>\n    <span class=\"c\"># Echo &#39;error!&#39; to stderr</span>\n    <span class=\"nb\">echo</span> <span class=\"s1\">&#39;Ops an error ocurred!&#39;</span> &gt;&amp;2\n    sleep 1\n<span class=\"k\">done</span>\n</pre></div>\n\n\n<p>If the script is not executable, make it executable with:</p>\n<div class=\"codehilite\"><pre>chmod +x /home/user/current_date.sh\n</pre></div>\n\n\n<h3>Supervisor Installation</h3>\n<p>To install Supervisor, you can simply run the following:</p>\n<div class=\"codehilite\"><pre>sudo apt-get install supervisor\n</pre></div>\n\n\n<p>Installing it as a package gives the ability to treat it as a service:</p>\n<div class=\"codehilite\"><pre>sudo service supervisor start  <span class=\"c\"># options: force-reload, force-stop, reload, restart, start, status, stop</span>\n</pre></div>\n\n\n<h3>Configuration</h3>\n<p>Configuration for Supervisor is found in <code>/etc/supervisor</code>. If you look at the configuration file <code>/etc/supervisord/supervisord.conf</code>, you'll see at the following at the bottom:</p>\n<div class=\"codehilite\"><pre><span class=\"o\">[</span>include<span class=\"o\">]</span>\n<span class=\"nv\">files</span> <span class=\"o\">=</span> /etc/supervisor/conf.d/*.conf\n</pre></div>\n\n\n<p>This means that any files found in <code>/etc/supervisor/conf.d</code> and ending in <code>.conf</code> will be included. This is where we can add configurations for our services.</p>\n<p>So now you need to tell Supervisor how to run and monitor the <code>long.sh</code> script. To do this you need to create a configuration file (let's name it <code>currentdate.conf</code>) and place it, at <code>/etc/supervisor/conf.d/</code>:</p>\n<div class=\"codehilite\"><pre>; <span class=\"o\">===================</span>\n; currentdate  celery\n; <span class=\"o\">===================</span>\n\n<span class=\"o\">[</span>program:currentdate_celery<span class=\"o\">]</span>\n\n; Set full path to celery program <span class=\"k\">if </span>using virtualenv, runs celery with celerybeat\n<span class=\"nb\">command</span><span class=\"o\">=</span>/home/user/.virtualenv/projectname/bin/celery worker -A scriptname -B\n\n<span class=\"nv\">directory</span><span class=\"o\">=</span>/home/user/development/projectname/app\n\n<span class=\"nv\">user</span><span class=\"o\">=</span>user\n\n<span class=\"nv\">numprocs</span><span class=\"o\">=</span>1\n\n<span class=\"nv\">stdout_logfile</span><span class=\"o\">=</span>/var/log/projectname/nodebook_celery.out.log\n<span class=\"nv\">stderr_logfile</span><span class=\"o\">=</span>/var/log/projectname/nodebook_celery.err.log\n\n<span class=\"nv\">environment</span><span class=\"o\">=</span><span class=\"nv\">SECRET_KEY</span><span class=\"o\">=</span><span class=\"s1\">&#39;some secret key&#39;</span>,SC_DIR<span class=\"o\">=</span><span class=\"s1\">&#39;/home/user/Documents/&#39;</span>\n\n<span class=\"nv\">autostart</span><span class=\"o\">=</span><span class=\"nb\">true</span>\n<span class=\"nv\">autorestart</span><span class=\"o\">=</span><span class=\"nb\">true</span>\n\n; Set Celery priority higher than default <span class=\"o\">(</span>999<span class=\"o\">)</span>\n; so, <span class=\"k\">if </span>rabbitmq is supervised, it will start first.\n<span class=\"nv\">priority</span><span class=\"o\">=</span>1000\n</pre></div>\n\n\n<p>As usual, we'll cover the options set here:</p>\n<ul>\n<li><code>[program:nodehook]</code> - Define the program to monitor. We'll call it \"nodehook\".</li>\n<li><code>command</code> - This is the command to run that kicks off the monitored process. We use \"node\" and run the \"http.js\" file. If you needed to pass any command line arguments or other data, you could do so here.</li>\n<li><code>directory</code> - Set a directory for Supervisord to \"cd\" into for before running the process, useful for cases where the process assumes a directory structure relative to the location of the executed script.</li>\n<li><code>autostart</code> - Setting this \"true\" means the process will start when Supervisord starts (essentially on system boot).</li>\n<li><code>autorestart</code> - If this is \"true\", the program will be restarted if it exits unexpectedly.</li>\n<li><code>startretries</code> - The number of retries to do before the process is considered \"failed\"</li>\n<li><code>stderr_logfile</code> - The file to write any errors output.</li>\n<li><code>stdout_logfile</code> - The file to write any regular output.</li>\n<li><code>user</code> - The user the process is run as.</li>\n<li><code>environment</code> - Environment variables to pass to the process.</li>\n</ul>\n<p>Note that we've specified some log files to be created inside of the /var/log/webhook directory. </p>\n<p>Supervisord won't create a directory for logs if they do not exist; We need to create them before running Supervisord:</p>\n<div class=\"codehilite\"><pre>sudo mkdir /var/log/webhook\n</pre></div>\n\n\n<h3>Controlling Processes</h3>\n<p>Now that we've configured Supervisord to monitor our Node process, we can read the configuration in and then reload Supervisord, using the supervisorctl tool:</p>\n<div class=\"codehilite\"><pre>supervisorctl reread\nsupervisorctl update\n</pre></div>\n\n\n<p>Our Node process should be running now. We can check this by simply running supervisorctl:</p>\n<div class=\"codehilite\"><pre>sudo supervisorctl\nnodehook               RUNNING    pid 444, uptime 0:02:45\n</pre></div>\n\n\n<p>We can double check this with the ps command:</p>\n<div class=\"codehilite\"><pre>ps aux | grep node\nuser   444  0.0  2.0 659620 10520 ?  Sl   00:57   0:00 /usr/bin/node /srv/http.js\n</pre></div>\n\n\n<p>There's other things we can do with <code>supervisorctl</code> as well. Enter the controlling tool using <code>sudo supervisorctl</code>:</p>\n<div class=\"codehilite\"><pre>supervisorctl\nnodehook     RUNNING    pid 444, uptime 0:15:42\n</pre></div>\n\n\n<p>Get a menu of available commands:</p>\n<div class=\"codehilite\"><pre>supervisor&gt; <span class=\"nb\">help</span>\n<span class=\"c\"># Available commands output here</span>\n</pre></div>\n\n\n<p>More info at <a href=\"https://serversforhackers.com/monitoring-processes-with-supervisord\">ServersForHackers</a>.</p>",
+      "date_created": "2016-04-05T13:22:39Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "monitoring-processes-with-supervisor",
+      "status": 2,
+      "title": "Monitoring Processes with Supervisor",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 35
+  },
+  {
+    "fields": {
+      "content": "<div class=\"codehilite\"><pre><span class=\"n\">reports</span> <span class=\"o\">=</span> <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Table</span><span class=\"p\">(</span><span class=\"s\">&#39;reports&#39;</span><span class=\"p\">,</span>\n    <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Column</span><span class=\"p\">(</span><span class=\"s\">&#39;report_id&#39;</span><span class=\"p\">,</span> <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Integer</span><span class=\"p\">,</span> <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">ForeignKey</span><span class=\"p\">(</span><span class=\"s\">&#39;report_period.id&#39;</span><span class=\"p\">)),</span>\n    <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Column</span><span class=\"p\">(</span><span class=\"s\">&#39;client_id&#39;</span><span class=\"p\">,</span> <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Integer</span><span class=\"p\">,</span> <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">ForeignKey</span><span class=\"p\">(</span><span class=\"s\">&#39;clients.id&#39;</span><span class=\"p\">)),</span>\n<span class=\"p\">)</span>\n\n<span class=\"k\">class</span> <span class=\"nc\">Clients</span><span class=\"p\">(</span><span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Model</span><span class=\"p\">):</span>\n    <span class=\"nb\">id</span> <span class=\"o\">=</span> <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Column</span><span class=\"p\">(</span><span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Integer</span><span class=\"p\">,</span> <span class=\"n\">primary_key</span><span class=\"o\">=</span><span class=\"bp\">True</span><span class=\"p\">)</span>\n    <span class=\"n\">name</span> <span class=\"o\">=</span> <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Column</span><span class=\"p\">(</span><span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">String</span><span class=\"p\">(</span><span class=\"mi\">255</span><span class=\"p\">),</span> <span class=\"n\">unique</span><span class=\"o\">=</span><span class=\"bp\">True</span><span class=\"p\">)</span>\n    <span class=\"n\">reports</span> <span class=\"o\">=</span> <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">relationship</span><span class=\"p\">(</span><span class=\"s\">&#39;ReportPeriod&#39;</span><span class=\"p\">,</span> <span class=\"n\">secondary</span><span class=\"o\">=</span><span class=\"n\">reports</span><span class=\"p\">,</span> <span class=\"n\">backref</span><span class=\"o\">=</span><span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">backref</span><span class=\"p\">(</span><span class=\"s\">&#39;clients&#39;</span><span class=\"p\">,</span> <span class=\"n\">lazy</span><span class=\"o\">=</span><span class=\"s\">&#39;dynamic&#39;</span><span class=\"p\">))</span>\n\n\n<span class=\"k\">class</span> <span class=\"nc\">ReportPeriod</span><span class=\"p\">(</span><span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Model</span><span class=\"p\">):</span>\n    <span class=\"nb\">id</span> <span class=\"o\">=</span> <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Column</span><span class=\"p\">(</span><span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Integer</span><span class=\"p\">,</span> <span class=\"n\">primary_key</span><span class=\"o\">=</span><span class=\"bp\">True</span><span class=\"p\">)</span>\n    <span class=\"n\">frequency</span> <span class=\"o\">=</span> <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Column</span><span class=\"p\">(</span><span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">String</span><span class=\"p\">(</span><span class=\"mi\">100</span><span class=\"p\">),</span> <span class=\"n\">nullable</span><span class=\"o\">=</span><span class=\"bp\">False</span><span class=\"p\">)</span>\n    <span class=\"n\">description</span> <span class=\"o\">=</span> <span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Column</span><span class=\"p\">(</span><span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">Text</span><span class=\"p\">)</span>\n</pre></div>\n\n\n<p>To retrieve all the clients for a given period you can do:</p>\n<div class=\"codehilite\"><pre><span class=\"n\">clients</span> <span class=\"o\">=</span> <span class=\"n\">ReportPeriod</span><span class=\"o\">.</span><span class=\"n\">query</span><span class=\"o\">.</span><span class=\"n\">filter</span><span class=\"p\">(</span><span class=\"n\">ReportPeriod</span><span class=\"o\">.</span><span class=\"n\">clients</span><span class=\"o\">.</span><span class=\"n\">any</span><span class=\"p\">(</span><span class=\"n\">name</span><span class=\"o\">=</span><span class=\"n\">name</span><span class=\"p\">))</span><span class=\"o\">.</span><span class=\"n\">all</span><span class=\"p\">()</span>\n</pre></div>\n\n\n<p>Ref: <a href=\"http://stackoverflow.com/questions/12593421/sqlalchemy-and-flask-how-to-query-many-to-many-relationship\">StackOverflow</a></p>",
+      "date_created": "2016-04-07T12:11:08Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "querying-many-to-many-relationship-in-sqlalchemy-with-flask",
+      "status": 1,
+      "title": "Querying Many to Many Relationship in SQLAlchemy with Flask",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 36
+  },
+  {
+    "fields": {
+      "content": "<p>To get the difference between the current branch and the master branch run:</p>\n<div class=\"codehilite\"><pre>git diff master branch_name\n</pre></div>",
+      "date_created": "2016-04-11T07:50:29Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "difference-between-the-current-branch-and-the-master-branch",
+      "status": 2,
+      "title": "Difference between the current branch and the master branch",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 37
+  },
+  {
+    "fields": {
+      "content": "To rename the current working branch run:</p>\r\n\r\n```\r\n:::bash\r\ngit branch -m new_branch_name\r\n```\r\n\r\nYou can also re-name a different branch from the one you are currently in with:\r\n\r\n```\r\n:::bash\r\ngit branch -m old_branch_name new_branch_name\r\n```\r\n\r\nOnce done, delete the old branch on remote with:\r\n\r\n```\r\n:::bash\r\ngit push origin :old_branch_name\r\n```\r\n\r\nNow push the new branch to the remote with:\r\n```\r\n:::bash\r\ngit push origin new_branch_name:refs/heads/new_branch_name\r\n```",
+      "date_created": "2016-04-11T08:22:18Z",
+      "last_updated": "2018-01-16T14:28:48Z",
+      "likes": 0,
+      "slug": "renaming-branches",
+      "status": 2,
+      "title": "Renaming branches",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 38
+  },
+  {
+    "fields": {
+      "content": "<p>To set the password for the current use in MySQL, run:</p>\n<div class=\"codehilite\"><pre><span class=\"o\">&gt;</span><span class=\"n\">mysql</span><span class=\"o\">&gt;</span> <span class=\"kt\">SET</span> <span class=\"n\">PASSWORD</span> <span class=\"o\">=</span> <span class=\"nf\">PASSWORD</span><span class=\"p\">(</span><span class=\"s1\">&#39;this_is_the_password&#39;</span><span class=\"p\">)</span>\n</pre></div>",
+      "date_created": "2016-04-11T08:32:48Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "set-password-for-current-user",
+      "status": 2,
+      "title": "Set password for current user",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 39
+  },
+  {
+    "fields": {
+      "content": "<p>An abstract class is a kind of 'model' for other classes to be defined. It is not designed to construct instances, but can be sub-classed by regular classes.</p>\n<p>Abstract classes can define the interface, or methods that must be implemented by its subclasses.</p>\n<div class=\"codehilite\"><pre><span class=\"c\">#!/usr/bin/python</span>\n\n<span class=\"kn\">import</span> <span class=\"nn\">abc</span>\n\n<span class=\"kn\">from</span> <span class=\"nn\">datetime</span> <span class=\"kn\">import</span> <span class=\"n\">datetime</span>\n\n<span class=\"k\">class</span> <span class=\"nc\">WriteFile</span><span class=\"p\">(</span><span class=\"nb\">object</span><span class=\"p\">):</span>\n    <span class=\"n\">__metaclass__</span> <span class=\"o\">=</span> <span class=\"n\">abc</span><span class=\"o\">.</span><span class=\"n\">ABCMeta</span>\n\n    <span class=\"k\">def</span> <span class=\"nf\">__init__</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"p\">,</span> <span class=\"n\">file_name</span><span class=\"p\">):</span>\n        <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">filename</span> <span class=\"o\">=</span> <span class=\"n\">file_name</span>\n\n    <span class=\"nd\">@abc.abstractmethod</span>\n    <span class=\"k\">def</span> <span class=\"nf\">write</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"p\">):</span>\n        <span class=\"k\">return</span>\n\n    <span class=\"k\">def</span> <span class=\"nf\">write_line</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"p\">,</span> <span class=\"n\">data</span><span class=\"p\">):</span>\n        <span class=\"n\">f</span> <span class=\"o\">=</span> <span class=\"nb\">open</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">filename</span><span class=\"p\">,</span> <span class=\"s\">&#39;a&#39;</span><span class=\"p\">)</span>\n        <span class=\"n\">f</span><span class=\"o\">.</span><span class=\"n\">write</span><span class=\"p\">(</span><span class=\"n\">data</span> <span class=\"o\">+</span> <span class=\"s\">&#39;</span><span class=\"se\">\\n</span><span class=\"s\">&#39;</span><span class=\"p\">)</span>\n        <span class=\"n\">f</span><span class=\"o\">.</span><span class=\"n\">close</span><span class=\"p\">()</span>\n\n\n<span class=\"k\">class</span> <span class=\"nc\">LogFile</span><span class=\"p\">(</span><span class=\"n\">WriteFile</span><span class=\"p\">):</span>\n    <span class=\"k\">def</span> <span class=\"nf\">write</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"p\">,</span> <span class=\"n\">data</span><span class=\"p\">):</span>\n        <span class=\"n\">dt_str</span> <span class=\"o\">=</span> <span class=\"n\">datetime</span><span class=\"o\">.</span><span class=\"n\">now</span><span class=\"p\">()</span><span class=\"o\">.</span><span class=\"n\">strftime</span><span class=\"p\">(</span><span class=\"s\">&#39;%Y-%m-</span><span class=\"si\">%d</span><span class=\"s\"> %H.%M&#39;</span><span class=\"p\">)</span>\n        <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">write_line</span><span class=\"p\">(</span><span class=\"s\">&#39;{}    {}&#39;</span><span class=\"o\">.</span><span class=\"n\">format</span><span class=\"p\">(</span><span class=\"n\">dt_str</span><span class=\"p\">,</span> <span class=\"n\">data</span><span class=\"p\">))</span>\n\n\n<span class=\"k\">class</span> <span class=\"nc\">DelimFile</span><span class=\"p\">(</span><span class=\"n\">WriteFile</span><span class=\"p\">):</span>\n    <span class=\"k\">def</span> <span class=\"nf\">__init__</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"p\">,</span> <span class=\"n\">delim_file</span><span class=\"p\">,</span> <span class=\"n\">delimiter</span><span class=\"p\">):</span>\n        <span class=\"nb\">super</span><span class=\"p\">(</span><span class=\"n\">DelimFile</span><span class=\"p\">,</span> <span class=\"bp\">self</span><span class=\"p\">)</span><span class=\"o\">.</span><span class=\"n\">__init__</span><span class=\"p\">(</span><span class=\"n\">delim_file</span><span class=\"p\">)</span>\n        <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">delimiter</span> <span class=\"o\">=</span> <span class=\"n\">delimiter</span>\n\n    <span class=\"k\">def</span> <span class=\"nf\">write</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"p\">,</span> <span class=\"n\">data</span><span class=\"p\">):</span>\n        <span class=\"n\">line</span> <span class=\"o\">=</span> <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">delimiter</span><span class=\"o\">.</span><span class=\"n\">join</span><span class=\"p\">(</span><span class=\"n\">data</span><span class=\"p\">)</span>\n        <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">write_line</span><span class=\"p\">(</span><span class=\"n\">line</span><span class=\"p\">)</span>\n\n\n<span class=\"n\">log</span> <span class=\"o\">=</span> <span class=\"n\">LogFile</span><span class=\"p\">(</span><span class=\"s\">&#39;log.txt&#39;</span><span class=\"p\">)</span>\n<span class=\"n\">log</span><span class=\"o\">.</span><span class=\"n\">write</span><span class=\"p\">(</span><span class=\"s\">&#39;This is a log message.&#39;</span><span class=\"p\">)</span>\n<span class=\"n\">log</span><span class=\"o\">.</span><span class=\"n\">write</span><span class=\"p\">(</span><span class=\"s\">&#39;This is another log message.&#39;</span><span class=\"p\">)</span>\n\n<span class=\"n\">csv_text</span> <span class=\"o\">=</span> <span class=\"n\">DelimFile</span><span class=\"p\">(</span><span class=\"s\">&#39;text.csv&#39;</span><span class=\"p\">,</span> <span class=\"s\">&#39;,&#39;</span><span class=\"p\">)</span>\n<span class=\"n\">csv_text</span><span class=\"o\">.</span><span class=\"n\">write</span><span class=\"p\">([</span><span class=\"s\">&#39;a&#39;</span><span class=\"p\">,</span> <span class=\"s\">&#39;b&#39;</span><span class=\"p\">,</span> <span class=\"s\">&#39;c&#39;</span><span class=\"p\">,</span> <span class=\"s\">&#39;d&#39;</span><span class=\"p\">])</span>\n<span class=\"n\">csv_text</span><span class=\"o\">.</span><span class=\"n\">write</span><span class=\"p\">([</span><span class=\"s\">&#39;1&#39;</span><span class=\"p\">,</span> <span class=\"s\">&#39;2&#39;</span><span class=\"p\">,</span> <span class=\"s\">&#39;3&#39;</span><span class=\"p\">,</span> <span class=\"s\">&#39;4&#39;</span><span class=\"p\">])</span>\n</pre></div>",
+      "date_created": "2016-04-11T09:07:10Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "abstract-classes-in-python",
+      "status": 2,
+      "title": "Abstract classes in python",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 40
+  },
+  {
+    "fields": {
+      "content": "<p>--allow-external\nand \n--allow-unverified</p>\n<p>Are now deprecated (2016). Installing packages external to PyPi using pip is no longer supported: http://legacy.python.org/dev/peps/pep-0470/</p>\n<p>As an alternative, when you really need to install that external package, you can download the source code and run its setup.py. For example, for PIL 1.1.7, download (to your project enviroment (/user/virtual_environments/environment_name/lib/python2.7/site-packages) from http://www.pythonware.com/products/pil/,then:</p>\n<div class=\"codehilite\"><pre><span class=\"n\">tar</span> <span class=\"n\">xvfz</span> <span class=\"n\">Imaging</span><span class=\"o\">-</span>1<span class=\"p\">.</span>1<span class=\"p\">.</span>7<span class=\"p\">.</span><span class=\"n\">tar</span><span class=\"p\">.</span><span class=\"n\">gz</span>\n<span class=\"n\">cd</span> <span class=\"n\">Imaging</span><span class=\"o\">-</span>1<span class=\"p\">.</span>1<span class=\"p\">.</span>7\n<span class=\"n\">python</span> <span class=\"n\">setup</span><span class=\"p\">.</span><span class=\"n\">py</span> <span class=\"n\">install</span>\n</pre></div>",
+      "date_created": "2016-04-14T14:14:40Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "pip-installing-external-packages",
+      "status": 2,
+      "title": "Pip installing external packages",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 41
+  },
+  {
+    "fields": {
+      "content": "<h3>Problem</h3>\n<p>You're using Postgres with Django.</p>\n<p>You change a field type of one of your models, generate an --auto South migration and attempt to run it. However, South chokes on the new migration complaining that the data in the column cannot be cast to the new type.</p>\n<p>For instance, I recently changed a CharField to a TimeField but the corresponding migration lead to:</p>\n<div class=\"codehilite\"><pre> Running migrations <span class=\"k\">for </span>accounts:\n - Migrating backwards to just after 0003_auto__add_field_account_last_4_digits__add_field_account_stripe_custom.\n &lt; accounts:0004_auto__chg_field_account_stripe_customer_id\nFATAL ERROR - The following SQL query failed: ALTER TABLE <span class=\"s2\">&quot;accounts_account&quot;</span> ALTER COLUMN <span class=\"s2\">&quot;stripe_customer_id&quot;</span> TYPE integer, ALTER COLUMN <span class=\"s2\">&quot;stripe_customer_id&quot;</span> SET NOT NULL, ALTER COLUMN <span class=\"s2\">&quot;stripe_customer_id&quot;</span> DROP DEFAULT;\nThe error was: column <span class=\"s2\">&quot;stripe_customer_id&quot;</span> cannot be cast automatically to <span class=\"nb\">type </span>integer\nHINT:  You might need to specify <span class=\"s2\">&quot;USING stripe_customer_id::integer&quot;</span>.\n</pre></div>\n\n\n<p>Postgres did not know how to convert my text data to times.</p>\n<h3>Solution</h3>\n<p>Write the ALTER TABLE SQL by hand, making use of the USING clause to specify how to compute the new value from the old.</p>\n<p>For the above example, the correct SQL to use is:</p>\n<div class=\"codehilite\"><pre>    <span class=\"k\">ALTER</span> <span class=\"k\">TABLE</span> <span class=\"s2\">&quot;accounts_account&quot;</span><span class=\"p\">,</span>\n    <span class=\"k\">ALTER</span> <span class=\"k\">COLUMN</span> <span class=\"s2\">&quot;stripe_customer_id&quot;</span> <span class=\"n\">TYPE</span> <span class=\"kt\">INTEGER</span><span class=\"p\">,</span>\n    <span class=\"k\">ALTER</span> <span class=\"k\">COLUMN</span> <span class=\"s2\">&quot;stripe_customer_id&quot;</span> <span class=\"kt\">SET</span> <span class=\"k\">NOT</span> <span class=\"no\">NULL</span><span class=\"p\">,</span>\n    <span class=\"k\">ALTER</span> <span class=\"k\">COLUMN</span> <span class=\"s2\">&quot;stripe_customer_id&quot;</span> <span class=\"k\">DROP</span> <span class=\"k\">DEFAULT</span><span class=\"p\">;</span>\n</pre></div>\n\n\n<p>We need to modify the migration file to execute raw SQL with db.execute instead of using db.alter_table to generate the SQL. So we change:</p>\n<div class=\"codehilite\"><pre><span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">alter_column</span><span class=\"p\">(</span><span class=\"s\">&#39;accounts_account&#39;</span><span class=\"p\">,</span> <span class=\"s\">&#39;stripe_customer_id&#39;</span><span class=\"p\">,</span> <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">gf</span><span class=\"p\">(</span><span class=\"s\">&#39;django.db.models.fields.IntegerField&#39;</span><span class=\"p\">)())</span>\n</pre></div>\n\n\n<p>to:</p>\n<div class=\"codehilite\"><pre><span class=\"n\">db</span><span class=\"o\">.</span><span class=\"n\">execute</span><span class=\"p\">(</span>\n    <span class=\"s\">&#39;ALTER TABLE &quot;accounts_account&quot; &#39;</span>\n    <span class=\"s\">&#39;ALTER COLUMN &quot;stripe_customer_id&quot; TYPE INTEGER USING stripe_customer_id::integer, &#39;</span>\n    <span class=\"s\">&#39;ALTER COLUMN &quot;stripe_customer_id&quot; SET NOT NULL, &#39;</span>\n    <span class=\"s\">&#39;ALTER COLUMN &quot;stripe_customer_id&quot; DROP DEFAULT &#39;</span>\n<span class=\"p\">)</span>\n</pre></div>\n\n\n<p>and all is well.</p>\n<p>A similar technique can be used wherever Postgres refuses to run a migration due to casting issues. See the <a href=\"http://www.postgresql.org/docs/9.1/static/sql-altertable.html\">Postgres documentation</a> for more examples of the USING clause.</p>",
+      "date_created": "2016-04-15T09:27:11Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "error-altering-postgres-table-columns-with-south",
+      "status": 2,
+      "title": "Error altering Postgres table columns with South",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 42
+  },
+  {
+    "fields": {
+      "content": "- `\\list` or `\\l` List databases\r\n- `\\connect <database_name>` or `\\c <database_name>` Connect to a database\r\n- `\\connect <database_name>` Switch databases\r\n- `\\dt` List tables in the current database\r\n- `\\di` List indexes\r\n- `\\d+ <table_name>` Display table schema\r\n- `\\du` List user roles\r\n- `\\x` Pretty-format query results instead of the not-so-useful ASCII tables\r\n- `\\COPY (SELECT id, name FROM <table_name>) TO '/path/file_name.csv' DELIMITER ',' CSV HEADER` Export postgres table to CSV with headings",
+      "date_created": "2016-04-15T09:55:41Z",
+      "last_updated": "2018-07-15T21:26:17.257Z",
+      "likes": 0,
+      "slug": "postgresql-command-line-cheat-sheet",
+      "status": 2,
+      "title": "PostgreSQL command line cheat sheet",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 43
+  },
+  {
+    "fields": {
+      "content": "### Relative Migration Identifiers\r\n\r\nRelative upgrades/downgrades are also supported. To move two versions from the current, a decimal value “+N” can be supplied:\r\n\r\n```\r\n:::bash\r\n\r\nalembic upgrade +2\r\n```\r\n\r\nNegative values are accepted for downgrades:\r\n\r\n```\r\n:::bash\r\n\r\nalembic downgrade -3\r\n```\r\n\r\nNegative values are accepted for downgrades:\r\n\r\n```\r\n:::bash\r\n\r\nalembic downgrade -1\r\n```\r\n\r\nTo upgrade to revision ae1027a6acf plus two additional steps:\r\n\r\n```\r\n:::bash\r\n\r\nalembic upgrade ae10+2\r\n```\r\n\r\n### Getting Information\r\n\r\nTo view the current revision, run:\r\n\r\n```\r\n:::bash\r\nalembic current\r\n```\r\n\r\nReturns:\r\n\r\n```\r\n:::bash\r\n\r\nINFO  [alembic.context] Context class PostgresqlContext.\r\nINFO  [alembic.context] Will assume transactional DDL.\r\nCurrent revision for postgresql://scott:XXXXX@localhost/test: 1975ea83b712 -> ae1027a6acf (head), Add a column\r\n```\r\n\r\n`head` is displayed only if the revision identifier for this database matches the head revision.\r\n\r\nWe can also view history with alembic history; the –verbose option (accepted by several commands, including history, current, heads and branches) will show us full information about each revision:\r\n\r\n```\r\n:::bash\r\n\r\nalembic history --verbose\r\n```\r\n\r\nReturns:\r\n\r\n```\r\n:::bash\r\n\r\nRev: ae1027a6acf (head)\r\nParent: 1975ea83b712\r\nPath: /path/to/yourproject/alembic/versions/ae1027a6acf_add_a_column.py\r\n\r\n    add a column\r\n\r\n    Revision ID: ae1027a6acf\r\n    Revises: 1975ea83b712\r\n    Create Date: 2014-11-20 13:02:54.849677\r\n\r\nRev: 1975ea83b712\r\nParent: <base>\r\nPath: /path/to/yourproject/alembic/versions/1975ea83b712_add_account_table.py\r\n\r\n    create account table\r\n\r\n    Revision ID: 1975ea83b712\r\n    Revises:\r\n    Create Date: 2014-11-20 13:02:46.257104\r\n```\r\n\r\n### Downgrading\r\n\r\nTo downgrade alembic to the beginning you run:\r\n\r\n```\r\n:::bash\r\n\r\nalembic downgrade base\r\n```\r\n\r\nReturns:\r\n\r\n```\r\n:::bash\r\n\r\nINFO  [alembic.context] Context class PostgresqlContext.\r\nINFO  [alembic.context] Will assume transactional DDL.\r\nINFO  [alembic.context] Running downgrade ae1027a6acf -> 1975ea83b712\r\nINFO  [alembic.context] Running downgrade 1975ea83b712 -> None\r\n```",
+      "date_created": "2016-04-20T07:16:37Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "alembic-migrations",
+      "status": 2,
+      "title": "Alembic migrations",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 44
+  },
+  {
+    "fields": {
+      "content": "`celery.contrib.rdb` is an extended version of `pdb` that enables remote debugging of processes that does not have terminal access.\r\n\r\nExample usage:\r\n\r\n```\r\n:::python\r\n\r\nfrom celery import task\r\nfrom celery.contrib import rdb\r\n\r\n@task()\r\ndef add(x, y):\r\n    result = x + y\r\n    rdb.set_trace()  # <- set breakpoint\r\n    return result\r\n```\r\n\r\n`set_trace()` sets a breakpoint at the current location and creates a socket you can telnet into to remotely debug your task.\r\n\r\nWhen the worker encounters your breakpoint it will log the following information:\r\n\r\n```\r\n:::bash\r\n\r\n[INFO/MainProcess] Received task:\r\n    tasks.add[d7261c71-4962-47e5-b342-2448bedd20e8]\r\n[WARNING/PoolWorker-1] Remote Debugger:6900:\r\n    Please telnet 127.0.0.1 6900.  Type `exit` in session to continue.\r\n[2011-01-18 14:25:44,119: WARNING/PoolWorker-1] Remote Debugger:6900:\r\n    Waiting for client...\r\n```\r\n\r\nOpen a new terminal tab or window and if telnet into the port specified you will be presented with a pdb shell:\r\n\r\n```\r\n:::bash\r\n\r\n$ telnet localhost 6900\r\nConnected to localhost.\r\nEscape character is '^]'.\r\n> /opt/devel/demoapp/tasks.py(128)add()\r\n-> return result\r\n(Pdb)\r\n```\r\n\r\nEnter help to get a list of available commands, It may be a good idea to read the [Python Debugger Manual] if you have never used pdb before.\r\n\r\n  [Python Debugger Manual]: http://docs.python.org/library/pdb.html",
+      "date_created": "2016-04-20T08:19:55Z",
+      "last_updated": "2017-07-09T21:30:20Z",
+      "likes": 0,
+      "slug": "celery-debugging-tasks",
+      "status": 2,
+      "title": "Celery debugging tasks",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 45
+  },
+  {
+    "fields": {
+      "content": "SSH is a secure protocol and you can use it to mount a directory on a remote server or local laptop with the help of the SSHF service. With SSHFS you can mount remote server file system to your local development workstation/laptop powered by Linux.\r\n\r\nSSHFS is a filesystem based on the SSH file transfer protocol. It is used on a client system i.e. you need to install SSHFS package on your local computer/laptop. No need to install anything on server.\r\n\r\n### Installing SSHFS\r\n\r\n```\r\n:::bash\r\n\r\nsudo apt-get install sshfs\r\n```\r\n\r\n### Mounting the remote file system\r\n\r\nThe syntax is as follow:\r\n\r\n```\r\n:::bash\r\n\r\nsshfs user@server /path/to/mountpoint\r\nsshfs user@server /path/to/mountpoint options\r\n```\r\n\r\nFirst, create the directory where you want to mount the remote file system\r\n\r\n```\r\n:::bash\r\n\r\nsudo mkdir ~/development/SERVER1\r\n```\r\n\r\nThen mount the file system using the server\\_user@host\\_name\\_or\\_ip\\_address followed by the path to the directory you have just created:\r\n\r\n```\r\n:::bash\r\n\r\nsudo sshfs -o allow_other root@192.168.1.142:/ /home/username/development/SERVER1\r\n```\r\n\r\nenter the password for the remote server\r\n\r\n```\r\n:::bash\r\n\r\nroot@192.168.1.142's password:\r\n```\r\n\r\nyou can check if the remote file system was mounted successfully with:\r\n\r\n```\r\n:::bash\r\n\r\nsudo df -h\r\n```\r\n\r\n### Unmount the remote file system\r\n\r\n```\r\n:::bash\r\nsudo umount /mnt/server1\r\n```\r\n\r\nyou can check if the remote file system was unmounted successfully with:\r\n\r\n```\r\n:::bash\r\n\r\nsudo df -h\r\n```",
+      "date_created": "2016-05-04T08:26:45Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "mount-a-remote-directory-with-sshfs-on-a-linux",
+      "status": 2,
+      "title": "Mount a Remote Directory With SSHFS on a Linux",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 46
+  },
+  {
+    "fields": {
+      "content": "Migrations for apps are nice ‘n all, but when you start writing a large project, with a lot of apps, you realise you have foreign key relationships between apps and working out what order migrations would need to be applied in for each app is just painful.\r\n\r\nLuckily, we also had this problem, so South has a dependency system. Inside a migration, you can declare that it depends on having another app having run a certain migration first; for example, if my app “forum” depends on the “accounts” app having created its user profile table, we can do:\r\n\r\n```\r\n:::python\r\n\r\n# forum/migrations/0002_post.py\r\nclass Migration:\r\n\r\n    depends_on = (\r\n        (\"accounts\", \"0003_add_user_profile\"),\r\n    )\r\n\r\n    def forwards(self):\r\n        ...\r\n```\r\n\r\nThen, if you try and migrate to or beyond 0002\\_post in the forum app, it will first make sure accounts is migrated at least up to `0003_add_user_profile`, and if not will migrate it for you.\r\n\r\nDependencies also work in reverse; South knows not to undo that `0003_add_user_profile` migration until it has undone the `0002_post migration`.\r\n\r\n### Reverse Dependencies\r\n\r\nSouth also supports “reverse dependencies” - a dependecy where you say your migration must be run before another, rather than vice-versa. This is useful if you’re trying to run a migration before another in a separate, third-party (or unchangeable) code.\r\n\r\nDeclaring these is just like the other kind, except you use `needed_by`:\r\n\r\n```\r\n:::python\r\nclass Migration:\r\n\r\n    needed_by = (\r\n        (\"accounts\", \"0005_make_fks\"),\r\n    )\r\n\r\n    def forwards(self):\r\n        ...\r\n```\r\n\r\nSource:  \r\n  [south.readthedocs]    \r\n\r\n  [south.readthedocs]: http://south.readthedocs.io/en/0.7.6/dependencies.html",
+      "date_created": "2016-05-11T08:13:07Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "south-dependencies",
+      "status": 2,
+      "title": "South Dependencies",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 47
+  },
+  {
+    "fields": {
+      "content": "The fab tool is very verbose by default and prints out almost everything it can, including the remote end’s stderr and stdout streams, the command strings being executed, and so forth. While this is necessary in many cases in order to know just what’s going on, any nontrivial Fabric task will quickly become difficult to follow as it runs.\r\n\r\n### Hiding and/or showing output levels\r\n\r\nYou may toggle any of Fabric’s output levels by using a context managers `hide` or `show`.\r\n\r\n`fabric.context_managers.hide(*groups)` sets the given output groups to False. `groups` must be one or more strings naming the output groups defined in `output`.\r\n\r\nThe given groups will be set to False for the duration of the enclosed block, and restored to their previous value afterwards.\r\n\r\nFor example, to hide the “`[hostname] run:`” status lines, as well as preventing printout of stdout and stderr, one might use `hide` as follows:\r\n\r\n```\r\n:::python\r\nfrom fabric.api import hide, run\r\n\r\ndef my_task():\r\n    with hide('running', 'stdout', 'stderr'):\r\n        run('ls /var/www')\r\n```\r\n\r\nSources: \r\n\r\n  [Stackoverflow suppress Fabric output]    \r\n  [Fabric context managers hide]\r\n\r\n  [Stackoverflow suppress Fabric output]: http://stackoverflow.com/a/9621835\r\n  [Fabric context managers hide]: http://docs.fabfile.org/en/1.4.0/api/core/context_managers.html#fabric.context_managers.hide",
+      "date_created": "2016-05-11T08:26:37Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "managing-fab-output",
+      "status": 2,
+      "title": "Managing fab output",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 48
+  },
+  {
+    "fields": {
+      "content": "### Flask\r\n\r\nCreate a WSGI file to start your web application `touch ~/dev/queryclick/magpie/wsgi.py`\r\n\r\n```\r\n:::python\r\n\r\n# project_name/\r\n#        app/\r\n#                __init__.py\r\n#                views.py\r\n#        wsgi.py\r\nfrom app import app\r\n\r\nif __name__ == \"__main__\":\r\n    app.run()\r\n```\r\n\r\n### NGINX\r\n\r\n-   NGINX files location: `/etc/nginx`\r\n-   NGINX log files location: `/var/log/nginx`\r\n-   Checking NGINX configuration files: `sudo nginx -t`\r\n-   Restarting NGINX: `sudo service nginx restart      # options: [start, status, stop, restart]`\r\n-   Removing NGINX:\r\n    -   Removing all but configuration files: `sudo apt-get remove nginx nginx-common`\r\n    -   Remove all nginx files: `sudo apt-get purge nginx nginx-common`\r\n-   Installing NGINX: `sudo apt-get install nginx`\r\n\r\nFor our next trick we’ll be configuring Nginx to work with our setup. We use Nginx as our routing manager, serving static files and reverse proxying to Gunicorn for our Flask views.\r\n\r\nOut of the box nginx initializes with a sample website configuration to tell you it installed correctly. So we can actually already visit our site in the browser and we’ll see the “Welcome to nginx!” boilerplate. But now we’re going to remove this sample config and write our own.\r\n\r\n```\r\n:::bash\r\n\r\nserver {\r\n    listen 80;\r\n    server_name 162.209.111.93;\r\n\r\n    root /home/deploy/sites/flaskdeploy;\r\n\r\n    access_log /home/pedrocurado/dev/queryclick/magpie/logs/nginx/access.log;\r\n    error_log /home/pedrocurado/dev/queryclick/magpie/logs/nginx/error.log;\r\n\r\n    location / {\r\n        proxy_set_header X-Forward-For $proxy_add_x_forwarded_for;\r\n        proxy_set_header Host $http_host;\r\n        proxy_redirect off;\r\n        if (!-f $request_filename) {\r\n            proxy_pass http://127.0.0.1:8000;\r\n            break;\r\n        }\r\n    }\r\n\r\n    location /static {\r\n        alias  /home/deploy/sites/flaskdeploy/static/;\r\n        autoindex on;\r\n    }\r\n}\r\n```\r\n\r\nCreate the directory for your nginx logs with: `mkdir -p ~/dev/queryclick/magpie/logs/nginx`\r\n\r\nEnable the site (by creating a symlink), test our configuration and restart to allow the changes to take place.\r\n\r\n```\r\n:::bash\r\n\r\nsudo ln -s /etc/nginx/sites-enabled/flaskdeploy /etc/nginx/sites-available/\r\n# check if the configuration has no errors\r\nsudo nginx -t\r\n# restart nginx\r\nsudo service nginx restart\r\n```\r\n\r\n### Gunicorn\r\n\r\nWe use gunicorn to serve all of our flask views. The development server is not suited for production website for many reasons, including security and performance concerns. Here we could use any number of solutions including Tornado or mod\\_wsgi for Apache. I’ve chosen to use gunicorn so this is the configuration I’ll show.\r\n\r\nYou can install Gunicorn with: `pip install gunicorn`\r\n\r\nOnce installed, you can run the following in the root of our site’s directory to activate the gunicorn web server:\r\n\r\n```\r\n:::bash\r\n# bind ip address\r\ngunicorn -b 162.209.111.93:5000 wsgi:app\r\n```\r\n\r\n### Supervisor\r\n\r\nWe have to make our web application controllable by a monitoring program. Should the web application crash for some reason, it has to be restarted. Also in the case of a server reboot, it must be started. Supervisor does the job.\r\n\r\nSources:\r\n\r\n-   [Deploy Flask with NGINX, Gunicorn and Supervisor];\r\n-   [Deploying a Flask application];\r\n-   http://stackoverflow.com/questions/15293801/supervisor-not-working-with-gunicorn-flask;\r\n-   http://serverfault.com/questions/211525/supervisor-not-loading-new-configuration-files;\r\n-   http://serverfault.com/questions/211525/supervisor-not-loading-new-configuration-files\r\n\r\n  [Deploy Flask with NGINX, Gunicorn and Supervisor]: http://alexandersimoes.com/hints/2015/10/28/deploying-flask-with-nginx-gunicorn-supervisor-virtualenv-on-ubuntu.html\r\n  [Deploying a Flask application]: http://www.michielovertoom.com/freebsd/flask-gunicorn-nginx-supervisord/",
+      "date_created": "2016-05-11T09:11:00Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "deploying-flask-with-nginx-supervisor-and-gunicorn",
+      "status": 2,
+      "title": "Deploying Flask with NGINX, Supervisor and Gunicorn",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 49
+  },
+  {
+    "fields": {
+      "content": "Linux and Unix-like operating system come with the kill command to terminates stalled or unwanted processes without having to log out or restart the server.\r\n\r\n-   SIGHUP (1) – Hangup detected on controlling terminal or death of controlling process. Use SIGHUP to reload configuration files and open/close log files.\r\n-   SIGKILL (9) – Kill signal. Use SIGKILL as a last resort to kill process. This will not save data or cleaning kill the process.\r\n-   SIGTERM (15) – Termination signal. This is the default and safest way to kill process.\r\n\r\n### What is a PID?\r\n\r\nA Linux or Unix process is running instance of a program. For example, Firefox is a running process if you are browsing the Internet. Each time you start Firefox browser, the system is automatically assigned a unique process identification number (PID). A PID is automatically assigned to each process when it is created on the system. To find out PID of firefox or httpd process use the following command:\r\n\r\n```\r\n:::bash\r\n    \r\npidof httpd\r\npidof apache2\r\npidof firefox\r\n\r\n# or use the combination of `ps` command and `grep` command\r\n\r\nps aux | grep httpd\r\nps aux | grep apache2\r\nps aux | grep  supervisord\r\n```\r\n\r\nSample outputs:\r\n\r\n```\r\n:::bash\r\n\r\nroot      2934  0.0  0.0  58100 14248 ?        Ss   May10   0:14 /usr/bin/python /usr/bin/supervisord -c /etc/supervisor/supervisord.conf\r\npedrocu+ 19455  0.0  0.0  15956  2228 pts/1    S+   10:57   0:00 grep --color=auto supervisor\r\n```\r\n\r\nAnd the PID is 2503\r\n\r\n### kill command syntax\r\n\r\n```\r\n:::bash\r\n    \r\nkill [signal] PID\r\nkill -15 PID\r\nkill -9 PID\r\nkill -SIGTERM PID\r\n```\r\n\r\nSources: [Kill process in Linux system]\r\n\r\n  [Kill process in Linux system]: http://www.cyberciti.biz/faq/kill-process-in-linux-or-terminate-a-process-in-unix-or-linux-systems/",
+      "date_created": "2016-05-11T09:40:15Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "kill-process-in-linux",
+      "status": 2,
+      "title": "Kill process in Linux",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 50
+  },
+  {
+    "fields": {
+      "content": "This is what you want to undo This is most often done when you remembered what you just committed is incomplete, or you misspelled your commit message1, or both. Leaves working tree as it was before git commit.\r\n\r\n```\r\n:::bash\r\ngit commit -m \"Something terribly misguided\"\r\ngit reset --soft HEAD~\r\n```\r\n\r\nMake corrections to working tree files. git add whatever changes you want to include in your new commit.\r\n\r\n```\r\n:::bash\r\ngit add ...\r\n```\r\n\r\nCommit the changes, reusing the old commit message. reset copied the old head to .git/ORIG\\_HEAD; commit with -c ORIG\\_HEAD will open an editor, which initially contains the log message from the old commit and allows you to edit it. If you do not need to edit the message, you could use the -C option instead.\r\n\r\n```\r\n:::bash\r\ngit commit -c ORIG_HEAD\r\n```\r\n\r\nIf you aren’t totally sure what you mean by “uncommit” and don’t know if you want to use git reset, please see Revert to a previous Git commit.\r\n\r\nIf you’re trying to understand git reset better, please see Can you explain what “git reset” does in plain English?\r\n\r\nIf you know you want to use git reset, it still depends what you mean by “uncommit”. If all you want to do is undo the act of committing, leaving everything else intact, use:\r\n\r\ngit reset –soft HEAD^ If you want to undo the act of committing and everything you’d staged, but leave the work tree (your files intact):\r\n\r\ngit reset HEAD^ And if you actually want to completely undo it, throwing away all uncommitted changes, resetting everything to the previous commit (as the original question asked):\r\n\r\ngit reset –hard HEAD^ The original question also asked it’s HEAD^ not HEAD. HEAD refers to the current commit - generally, the tip of the currently checked-out branch. The ^ is a notation which can be attached to any commit specifier, and means “the commit before”. So, HEAD^ is the commit before the current one, just as master^ is the commit before the tip of the master branch.\r\n\r\nHere’s the portion of the git-rev-parse documentation describing all of the ways to specify commits (^ is just a basic one among many).\r\n\r\nReferences: [Stackoverflow uncommit last commit][] [Stackoverflow undo last commit]\r\n\r\n  [Stackoverflow uncommit last commit]: http://stackoverflow.com/a/2846154\r\n  [Stackoverflow undo last commit]: http://stackoverflow.com/a/927386",
+      "date_created": "2016-05-19T08:16:10Z",
+      "last_updated": "2017-07-25T09:37:51Z",
+      "likes": 0,
+      "slug": "revert-and-redo-a-commit",
+      "status": 2,
+      "title": "Revert and redo a commit",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 51
+  },
+  {
+    "fields": {
+      "content": "Imagine you have two models `Tags` and `Posts` where each post has a many to many relationship to the `Tags` model (each post can have 1 or more tags, each tag can be associated with 1 or more posts).\r\n\r\n### So how do you update posts using a form?\r\n\r\nI you are using a Django version =&gt; 1.9 then you can make use of the `set(objs, bulk=True, clear=False)` method.\r\n\r\nFor instance:\r\n\r\n```\r\n:::python\r\nclass EditPost(UpdateView):\r\n    ...\r\n    def post(self, request, *args, **kwargs):\r\n        ...\r\n        if form.is_valid():\r\n            posts.save()\r\n\r\n            for tag in list_of_tags:\r\n                tag_object, created = Tags.objects.get_or_create(name=tag)\r\n                list_of_tags.append(tag_object)\r\n            posts.tags.set(list_of_tags)\r\n            return redirect('app:view-name')\r\n```\r\n\r\nReference:\r\n<https://docs.djangoproject.com/en/1.9/ref/models/relations/#django.db.models.fields.related.RelatedManager.set>\r\n\r\nSo what do you do when comes the time where you need to edit and update your post? If you are using a Django version previous to 1.9 then one possible solution\r\n\r\n```\r\n:::bash\r\ndef post(self, request, *args, **kwargs):\r\n    ...\r\n    if form.is_valid():\r\n        report = form.save(commit=False)\r\n        report.account = account\r\n        report.save()\r\n\r\n        report.domains.clear()  # disassociates all objects from the related object set\r\n        for domain in list_of_domains:\r\n            domain_object, created = Domain.objects.get_or_create(url=domain_value)\r\n            report.domains.add(domain_object)\r\n        return redirect('app:view-name')\r\n```",
+      "date_created": "2016-06-29T12:22:54Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "updating-form-with-many-to-many-field",
+      "status": 2,
+      "title": "Updating form with many to many field",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 52
+  },
+  {
+    "fields": {
+      "content": "Celery is a powerful asynchronous job queue used for running tasks in the background.\r\n\r\n### Why is this useful then?\r\n\r\n-   Think of all the times you have had to run a certain task in the future. Perhaps you needed to access an API every hour. Or maybe you needed to send a batch of emails at the end of the day. Large or small, Celery makes scheduling such periodic tasks easy.\r\n\r\n-   You never want end users to have to wait unnecessarily for pages to load or actions to complete. If a long process is part of your application’s workflow, you can use Celery to execute that process in the background, as resources become available, so that your application can continue to respond to client requests. This keeps the task out of the application’s context.\r\n\r\n1 - Assuming you already have django setup, install celery with:\r\n\r\n```\r\n:::bash\r\npip install celery\r\n```\r\n\r\n2 - Create a file called `celery.py` in your projects directory, example:\r\n\r\n```\r\n:::bash\r\nproject/\r\n |--- manage.py\r\n |--- project/\r\n |    |--- __init__.py\r\n |    |--- celery.py\r\n |    |--- settings.py\r\n |    ---- urls.py\r\n ---- requirements.txt\r\n```\r\n\r\n3 - Install RabbitAMQ as a Celery “Broker” Celery uses “brokers” to pass messages between a Django Project and the Celery workers.\r\n\r\nSource: <https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/>",
+      "date_created": "2016-07-01T13:33:23Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "asynchronous-tasks-with-django-and-celery",
+      "status": 2,
+      "title": "Asynchronous Tasks with Django and Celery",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 53
+  },
+  {
+    "fields": {
+      "content": "At some point you will want to see the logs being stored in the log files in real time. The best way to achieve this is by using the `tail` command. The following approach works for any linux operating system:\r\n\r\n```\r\n:::bash\r\ntail -f /path/to/file.log\r\n```\r\n\r\nThis will give you a scrolling view of the logfile. As new lines are added to the end, they will show up in your console screen.\r\n\r\nTo stop it use `Ctr+C`.\r\n\r\nFor more info regarding the `tail` command check the manual pages using the command line (`man tail`) or check the [manual page online].\r\n\r\n  [manual page online]: http://manpages.ubuntu.com/manpages/wily/man1/tail.1.html",
+      "date_created": "2016-07-04T13:24:54Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "how-to-view-the-content-of-log-files-in-real-time",
+      "status": 2,
+      "title": "How to view the content of log files in real time",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 54
+  },
+  {
+    "fields": {
+      "content": "At some point you will want to flush all content from a file without actually deleting it, to do this simply run:\r\n\r\n```\r\n:::bash\r\n> filename.txt\r\n```",
+      "date_created": "2016-07-04T13:29:49Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "how-to-empty-the-contents-of-a-file",
+      "status": 2,
+      "title": "How to empty the contents of a file",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 55
+  },
+  {
+    "fields": {
+      "content": "<p>on <code>celery.py</code> specify celery not to configure logging with:</p>\n<div class=\"codehilite\"><pre><span class=\"kn\">from</span> <span class=\"nn\">celery</span> <span class=\"kn\">import</span> <span class=\"n\">signals</span>\n\n<span class=\"nd\">@signals.setup_logging.connect</span>\n<span class=\"k\">def</span> <span class=\"nf\">setup_celery_logging</span><span class=\"p\">(</span><span class=\"o\">**</span><span class=\"n\">kwargs</span><span class=\"p\">):</span>\n    <span class=\"k\">pass</span>\n</pre></div>\n\n\n<p>Source: <a href=\"https://github.com/celery/celery/issues/2509\">https://github.com/celery/celery/issues/2509</a></p>",
+      "date_created": "2016-07-07T14:56:39Z",
+      "last_updated": "2017-08-10T19:50:14Z",
+      "likes": 0,
+      "slug": "specify-celery-not-to-configure-logging",
+      "status": 1,
+      "title": "Specify Celery not to configure logging",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 56
+  },
+  {
+    "fields": {
+      "content": "Dockerfiles: plain text instructions to automatically make images.\r\n\r\nDocker containers: the active, running parts of Docker that do something.\r\n\r\nDocker images: pre-built environments and instructions that tell a container what to do.\r\n\r\n[Remove exited containers](#Remove-exited-containers)\r\n\r\n### Check if a docker container is running\r\n\r\n```\r\n:::bash\r\ndocker inspect -f {{.State.Running}} container_id\r\n```\r\n\r\n### To list all Docker containers you can use one of the following commands:\r\n\r\n```\r\n:::bash\r\ndocker ps -as\r\ndocker ps -aq\r\ndocker ps -a\r\n```\r\n\r\n### List all Docker images:\r\n\r\n\r\n```\r\n:::bash\r\ndocker images ps\r\ndocker images -a\r\n```\r\n\r\n### Remove a specific docker container\r\n```\r\n:::bash\r\ndocker rm <container_id>\r\n```\r\n\r\n### Force remove all Docker containers\r\n\r\n```\r\n:::bash\r\ndocker rm -f $(docker ps -a -q)\r\n```\r\n\r\n### Remove a specific Docker image\r\n\r\n```\r\n:::bash\r\ndocker rmi <image_id>\r\n```\r\n\r\n### Force remove all Docker images\r\n\r\n\r\n```\r\n:::bash\r\ndocker rmi -f $(docker images -q)\r\n```\r\n\r\n```\r\n:::bash\r\n# Running docker with auto remove containers\r\ndocker run --rm <image_name> <CMD>\r\n\r\n# Execute shell in Docker container\r\ndocker exec -it <container_id> /bin/bash\r\n\r\n# Execute shell in container using Docker Compose\r\ndocker-compose exec <service_name> /bin/bash\r\n\r\n# Dockerfile example\r\nFROM r-base:latest  # for python 2.7 (FROM python:2.7)\r\n# Set a default user. Available via runtime flag `--user docker`;\r\n# Add user to 'staff' group, granting them write\r\n# privileges to /usr/local/lib/R/site.library;\r\n#\r\n# User should also have & own a home directory.\r\nRUN useradd docker \\\r\n    && mkdir /home/docker \\\r\n    && chown docker:docker /home/docker \\\r\n    && addgroup docker staff\r\n\r\nRUN apt-get update && apt-get install vim -y\r\nRUN pip install matplotlib\r\nRUN pip install ipython\r\n\r\nCOPY . /src\r\nCMD [\"R\", \"/src/read_data.R\"]\r\n```\r\n\r\n### Sharing data between the host system and a docker container\r\n\r\nThe easiest way to share a data between a Docker container and the host system is to use docker’s volumes. To do this simply run your docker container using the `-v` option to mount a local host system directory e.g: `data` to the container’s directory `/home/user/data`.\r\n\r\nPlease note that if the destination does not exists it will be created by the the docker command. Furthermore, docker only accepts a full path to a local host system directory and from this reason we need to prefix the `data` directory with $PWD/ environmental variable which returns a full path to a current working directory:\r\n\r\n    # PWD=/home/user/data\r\n    docker run -v $PWD:/home/user/data -it image_name /bin/bash\r\n    root@29b320e5ebbf:/#\r\n\r\nAdditionally, docker containers run as the root user, this means that any files created or modified by the container will thus become owned by the root user, even if you are sharing a volume or even after quitting the container. To avoid this problem, it is necessary to run the container using a non-root user.\r\n\r\nTo create a user in your container simply add the following to your Dockerfile:\r\n\r\n    # Set a default user. Available via runtime flag `--user docker`;\r\n    # Add user to 'staff' group;\r\n    #\r\n    # User should also have & own a home directory.\r\n    RUN useradd docker \\\r\n        && mkdir /home/docker \\\r\n        && chown docker:docker /home/docker \\\r\n        && addgroup docker staff\r\n\r\nOnce done, to run the container a that user execute:\r\n\r\n    docker run --rm -it -v $PWD:/home/$USER/ -u docker python script_name.py\r\n\r\n\r\n### Remove exited containers\r\n\r\n```\r\n:::bash\r\ndocker rm -f $(docker ps -f status=exited -q)\r\n```",
+      "date_created": "2016-07-10T23:14:38Z",
+      "last_updated": "2018-08-07T09:17:07.839Z",
+      "likes": 0,
+      "slug": "docker-cheat-sheet",
+      "status": 2,
+      "title": "Docker cheat sheet",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 57
+  },
+  {
+    "fields": {
+      "content": "### Starting the Scheduler\r\n\r\nTo start the celery beat service:\r\n\r\n```\r\n:::bash\r\ncelery -A proj beat\r\n```\r\n\r\nYou can also start embed beat inside the worker by enabling workers -B option, this is convenient if you will never run more than one worker node, but it’s not commonly used and for that reason is not recommended for production use:\r\n\r\n```\r\n:::bash\r\ncelery -A proj worker -B\r\n```\r\n\r\nBeat needs to store the last run times of the tasks in a local database file (named celerybeat-schedule by default), so it needs access to write in the current directory, or alternatively you can specify a custom location for this file:\r\n\r\n```\r\n:::bash\r\ncelery -A proj beat -s /home/celery/var/run/celerybeat-schedule\r\n```\r\n\r\n### Retrieve list of tasks in queue\r\n\r\nIf you are using rabbitMQ you can get a list of tasks in a queue with the `rabbitmqctl list_queues` command.\r\n\r\n### Deleting all pending tasks\r\n\r\nTo delete all pending tasks you can use the celery purge command to purge all configured task queues:\r\n\r\n```\r\n:::bash\r\ncelery -A proj purge\r\n```\r\n\r\nor programatically:\r\n\r\n```\r\n:::python\r\n>>> from proj.celery import app\r\n>>> app.control.purge()\r\n1753\r\n```\r\n\r\nSources:\r\n\r\n[Celery docs - Inspecting Queues]   \r\n[Celery docs - How do I purge all waiting tasks]\r\n\r\n[Celery docs - Inspecting Queues]: http://docs.celeryproject.org/en/latest/userguide/monitoring.html#inspecting-queues  \r\n[Celery docs - How do I purge all waiting tasks]: http://docs.celeryproject.org/en/latest/faq.html?highlight=purge#how-do-i-purge-all-waiting-tasks",
+      "date_created": "2016-07-15T09:29:47Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "celery-cheat-sheet",
+      "status": 2,
+      "title": "Celery cheat sheet",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 58
+  },
+  {
+    "fields": {
+      "content": "<p>To update your project requirements after installing a new package with pip, simply do:</p>\n<div class=\"codehilite\"><pre>pip freeze &gt; requirements.txt  <span class=\"c\"># or /path/to/requirements.txt</span>\n</pre></div>",
+      "date_created": "2016-07-28T13:18:52Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "update-requirements-file-with-pip",
+      "status": 1,
+      "title": "Update requirements file with pip",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 59
+  },
+  {
+    "fields": {
+      "content": "If you want to add a path to the `PYTHONPATH` while in a virtualenv, you can add the following line to your virtualenv `bin/postactivate`\r\n\r\n```\r\n:::bash\r\nexport PYTHONPATH=\"/the/path/you/want\"  # the.path.to.a.python.module\r\n```\r\n\r\nTo have it restored to its original value on deactivate, you could add:\r\n\r\n```\r\n:::bash\r\nexport OLD_PYTHONPATH=\"$PYTHONPATH\"\r\n```\r\n\r\nbefore the previously mentioned line, and add the following to your `bin/postdeactivate`\r\n\r\n```\r\n:::bash\r\nexport PYTHONPATH=\"$OLD_PYTHONPATH\"\r\n```\r\n\r\nSource: [Stackoverflow - How do you set your pythonpath in an already-created virtualenv?]\r\n\r\n  [Stackoverflow - How do you set your pythonpath in an already-created virtualenv?]: http://stackoverflow.com/a/4758351",
+      "date_created": "2016-08-02T14:07:46Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "adding-and-removing-paths-from-pythonpath-while-on-virtualenv",
+      "status": 2,
+      "title": "Adding and removing paths from PYTHONPATH while on virtualenv",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 60
+  },
+  {
+    "fields": {
+      "content": "<h3>Scrapy</h3>\n<p>Scrapy is an application framework for crawling websites and extracting structured data which can be used for a wide range of applications, like data mining.</p>\n<p>Even though Scrapy was originally designed for web scraping, it can also be used to extract data using API's.</p>\n<h3>Installation</h3>\n<div class=\"codehilite\"><pre>pip install Scrapy\n</pre></div>\n\n\n<h3>Start new project</h3>\n<div class=\"codehilite\"><pre>scrapy startproject projectname\n</pre></div>\n\n\n<h3>scrapyd</h3>\n<p>Scrapyd can manage multiple projects and each project can have multiple versions uploaded, but only the latest one will be used for launching new spiders.</p>\n<h3>How does scrapyd works?</h3>\n<p>Scrapyd is an application (typically run as a daemon) that listens to requests for spiders to run and spawns a process for each one, which basically executes:</p>\n<div class=\"codehilite\"><pre>scrapy crawl myspidername\n</pre></div>\n\n\n<h3>scrapyd-client</h3>\n<p>Scrapyd-client is a client for scrapyd. It provides the scrapyd-deploy utility which allows you to deploy your project to a Scrapyd server.</p>\n<h3>How does scrapyd-client works</h3>\n<p>Deploying your project to a Scrapyd server typically involves two steps:</p>\n<ul>\n<li>Eggifying your project. You'll need to install setuptools for this. See Egg Caveats below.</li>\n<li>Uploading the egg to the Scrapyd server through the addversion.json endpoint.</li>\n</ul>\n<p>The scrapyd-deploy tool automates the process of building the egg and pushing it to the target Scrapyd server.</p>",
+      "date_created": "2016-08-03T08:53:09Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "scrapy-scrapyd-and-scrapyd-client",
+      "status": 1,
+      "title": "Scrapy, scrapyd and scrapyd-client",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 61
+  },
+  {
+    "fields": {
+      "content": "<div class=\"codehilite\"><pre><span class=\"kn\">from</span> <span class=\"nn\">celery</span> <span class=\"kn\">import</span> <span class=\"n\">Celery</span><span class=\"p\">,</span> <span class=\"n\">signals</span>\n<span class=\"kn\">import</span> <span class=\"nn\">logging</span>\n\n<span class=\"n\">app</span> <span class=\"o\">=</span> <span class=\"n\">Celery</span><span class=\"p\">()</span>\n<span class=\"n\">app</span><span class=\"o\">.</span><span class=\"n\">config_from_object</span><span class=\"p\">(</span><span class=\"s\">&#39;lib.celery_settings&#39;</span><span class=\"p\">)</span>\n\n<span class=\"c\"># XXX: Here it doesn&#39;t work</span>\n<span class=\"c\"># app.log.setup()</span>\n\n<span class=\"nd\">@signals.setup_logging.connect</span>\n<span class=\"k\">def</span> <span class=\"nf\">setup_celery_logging</span><span class=\"p\">(</span><span class=\"o\">**</span><span class=\"n\">kwargs</span><span class=\"p\">):</span>\n    <span class=\"k\">print</span> <span class=\"s\">&quot;something&quot;</span>\n    <span class=\"k\">pass</span>\n\n<span class=\"c\"># Moving the call here works</span>\n<span class=\"n\">app</span><span class=\"o\">.</span><span class=\"n\">log</span><span class=\"o\">.</span><span class=\"n\">setup</span><span class=\"p\">()</span>\n</pre></div>\n\n\n<p>Sources: <a href=\"https://github.com/celery/celery/issues/2509\">Configure celery to not log</a></p>",
+      "date_created": "2016-08-05T12:51:39Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "disabling-celery-logging",
+      "status": 1,
+      "title": "Disabling celery logging",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 62
+  },
+  {
+    "fields": {
+      "content": "According to the [page 99 of “Understanding MySQL Internals” (ISBN 0-596-00957-7)], here are paragraphs 1-3 explaining it:\r\n\r\nMySQL network communication code was written under the assumption that queries are always reasonably short, and therefore can be sent to and processed by the server in one chunk, which is called a packet in MySQL terminology.\r\n\r\nThe server allocates the memory for a temporary buffer to store the packet, and it requests enough to fit it entirely. This architecture requires a precaution to avoid having the server run out of memory—a cap on the size of the packet, which this option accomplishes.\r\n\r\nThe code of interest in relation to this option is found in sql/net\\_serv.cc. Take a look at my\\_net\\_read(), then follow the call to my\\_real\\_read() and pay particular attention to net\\_realloc().\r\n\r\nThis variable also limits the length of a result of many string functons. See sql/field.cc and sql/intem\\_strfunc.cc for details.\r\n\r\nSource:\r\n\r\n- [StackOverflow - What does the MySQL \"max_allowed_packet\" setting actually control?]\r\n- [Understanding MySQL Internals][page 99 of “Understanding MySQL Internals” (ISBN 0-596-00957-7)]\r\n\r\n  [StackOverflow - What does the MySQL \"max_allowed_packet\" setting actually control?]: http://superuser.com/a/273833\r\n  [page 99 of “Understanding MySQL Internals” (ISBN 0-596-00957-7)]: http://rads.stackoverflow.com/amzn/click/0596009577",
+      "date_created": "2016-08-11T08:15:25Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "what-does-the-mysql-max_allowed_packet-setting-actually-do",
+      "status": 2,
+      "title": "What does the MySQL “max_allowed_packet” setting actually do?",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 63
+  },
+  {
+    "fields": {
+      "content": "You can adjust `max_allowed_packet` for modifying an existing, or create\r\na new RDS Parameter Group.\r\n\r\nIf you haven’t touched parameter groups before, you’ll likely find that\r\nyours is named default.mysql5.6 (or your version equivalent) and you\r\nwill need to create a new one to customize your own settings.\r\n\r\nYou can create a new parameter group from the:\r\n\r\n-   AWS Console (\"[Working with parameter groups]\" describes the\r\n    creation of parameter groups and modification of individual\r\n    settings)\r\n-   CLI (docs: [create-db-parameter-group])\r\n-   API (docs: [CreateDBParameterGroup])\r\n\r\nYou can modify settings from the:\r\n\r\n-   AWS Console (See above.)\r\n-   CLI (docs: [modify-db-parameter-group])\r\n-   API (docs: [ModifyDBParameterGroup])\r\n\r\nWhen you change from the default parameter group to a custom parameter\r\ngroup, you will need to reboot the RDS instance for the switch to take\r\neffect. After that, you will only need to reboot for individual settings\r\nif they have the “static” parameter type. max\\_allowed\\_packet is a\r\ndynamic parameter type, which means that the change will take effect\r\nimmediately once you make it.\r\n\r\nSource:\r\n\r\n  [Working with parameter groups]: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithParamGroups.html\r\n  [create-db-parameter-group]: http://docs.aws.amazon.com/cli/latest/reference/rds/create-db-parameter-group.html\r\n  [CreateDBParameterGroup]: http://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_CreateDBParameterGroup.html\r\n  [modify-db-parameter-group]: http://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-parameter-group.html\r\n  [ModifyDBParameterGroup]: http://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_ModifyDBParameterGroup.html\r\n  [StackOverflow - configuring max\\_allowed\\_packet for Confluence on\r\n  AWS](http://stackoverflow.com/a/26346048)",
+      "date_created": "2016-08-11T08:23:09Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "configuring-max_allowed_packet-for-aws",
+      "status": 2,
+      "title": "Configuring max_allowed_packet for AWS",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 64
+  },
+  {
+    "fields": {
+      "content": "Your web-browser will send what is known as a \"User-Agent\" for every page you access. This is a string to tell the server what kind of device you are accessing the page with.",
+      "date_created": "2016-08-29T10:05:26Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "what-is-a-user-agent",
+      "status": 2,
+      "title": "What is a User-Agent",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 65
+  },
+  {
+    "fields": {
+      "content": "To view the contents of `.sqlite` files you can use the GUI tool\r\n`sqlitebrowser`.\r\n\r\n### Installation\r\n\r\n```\r\n:::bash\r\nsudo apt install sqlitebrowser\r\n```\r\n\r\nyou can run it from the application menu or command line using the\r\nfollowing command:\r\n\r\n```\r\n:::bash\r\nsqlitebrowser\r\n```\r\n\r\nIn the main window you can click `Open database` to open your `*.sqlite`\r\nfile. It will then display something like this (here displaying the\r\ndatabase of a Firefox add-on for applying user styles)\r\n\r\nResources:\r\n\r\n[Stackoverflow: View sqlite files](http://askubuntu.com/questions/805219/how-to-properly-view-a-sqlite-file-using-sqlite)",
+      "date_created": "2016-10-14T08:20:58Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "how-to-view-the-contents-of-sqlite-files",
+      "status": 2,
+      "title": "How to view the contents of .sqlite files",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 66
+  },
+  {
+    "fields": {
+      "content": "It’s not unusual the need to do bulk update/create in django\r\napplications, but if you don’t use the right approach your views will\r\nincrease the load time to unacceptable values.\r\n\r\nHere is the common example where people starts out:\r\n\r\n```\r\n:::python\r\n# took 37 seconds\r\ndef auto_transaction():\r\n    for i in range(10000):\r\n        name=\"String number %s\" %i\r\n        Record.objects.create(name=name)\r\n```\r\n\r\nBefore django 1.4 we didn’t have the built-in bulk\\_create, so the\r\ncommon way to do a bulk insertion was disabling the auto transaction in\r\nthe beginning of operation and do it only once in the end:\r\n\r\n```\r\n:::python\r\nfrom django.db import transaction\r\n\r\n# took 2.65 seconds\r\n@transaction.commit_manually\r\ndef manual_transaction():\r\n    for i in range(10000):\r\n        name=\"String number %s\" %i\r\n        Record.objects.create(name=name)\r\n    transaction.commit()\r\n```\r\n\r\nBut since Django 1.4 and the bulk\\_create built-in, insertions got a lot\r\nfaster:\r\n\r\n```\r\n:::python\r\n# took 0.47 seconds\r\ndef builtin():\r\n    insert_list = []\r\n    for i in range(10000):\r\n        name=\"String number %s\" %i\r\n        insert_list.append(Record(name=name))\r\n    Record.objects.bulk_create(insert_list)\r\n```\r\n\r\nA similar effect happens to update operation The next examples are also executed against 10000 records\r\n\r\nIterating over each record and manually updating the desired field:\r\n\r\n```\r\n:::python\r\n# took 72 seconds\r\ndef auto_transaction():\r\n    for record in Record.objects.all():\r\n        record.name = \"String without number\"\r\n        record.save()\r\n```\r\n\r\nDisabling transactions and committing only once in the end of process:\r\n\r\n```\r\n:::python\r\nfrom django.db import transaction\r\n\r\n# took 17 seconds\r\n@transaction.commit_manually\r\ndef manual_transaction():\r\n    for record in Record.objects.all():\r\n        record.name = \"String without number\"\r\n        record.save()\r\n    transaction.commit()\r\n```\r\n\r\nUpdate using the django built-in update()\r\n\r\n```\r\n:::python\r\n\r\n# took 0.03 seconds\r\ndef builtin():\r\n    Record.objects.all().update(name=\"String without number\");\r\n```\r\n\r\nWARNING! Each method described here has it own particularity, and may not fit for your use case. Before you try any of them you should read the docs.\r\n\r\nReferences:\r\n\r\n[Doing bulk update and bulk create with django orm](http://voorloopnul.com/blog/doing-bulk-update-and-bulk-create-with-django-orm/)\r\n\r\n[Django Bulk Create](https://docs.djangoproject.com/en/dev/ref/models/querysets/#bulk-create)",
+      "date_created": "2017-01-12T13:34:36Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "django-orm-bulk-update-and-bulk-create",
+      "status": 2,
+      "title": "Django ORM Bulk Update and Bulk Create",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 67
+  },
+  {
+    "fields": {
+      "content": "To add classes, id’s, and placeholder attributes to a HTML field you can\r\ndo the following:\r\n\r\n```\r\n:::python\r\n#forms.py\r\nclass ProductForm(ModelForm):\r\n    class Meta:\r\n        model = Product\r\n        exclude = ('updated', 'created')\r\n\r\n    def __init__(self, *args, **kwargs):\r\n        super(ProductForm, self).__init__(*args, **kwargs)\r\n        self.fields['description'].widget = TextInput(attrs={\r\n            'id': 'myCustomId',\r\n            'class': 'myCustomClass',\r\n            'name': 'myCustomName',\r\n            'placeholder': 'myCustomPlaceholder'})\r\n```\r\n\r\nReferences:\r\n\r\n[How to add class, id, placeholder attributes to a field in django\r\n  model forms](http://stackoverflow.com/a/19489965)",
+      "date_created": "2017-02-22T09:14:57Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "how-to-add-class-id-placeholder-attributes-to-a-field-in-django-model-forms",
+      "status": 2,
+      "title": "How to add class, id, placeholder attributes to a field in django model forms",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 68
+  },
+  {
+    "fields": {
+      "content": "The simplest way of displaying a “details” table about any model, is to\r\nshow a ModelFrom with all fields readonly or (selects) disabled.\r\n\r\nAlso, the labels are preferably translatable, not just capitalized names\r\nof the column tables in your models. So the constructor translates the\r\nfield labels as well.\r\n\r\n```\r\n:::python\r\nfrom django import forms\r\n\r\nclass ReadOnlyForm(forms.ModelForm):\r\n    \"\"\"Base class for making a form readonly.\"\"\"\r\n    def __init__(self, *args, **kwargs):\r\n        from django.utils.translation import ugettext as _\r\n        from django.forms.widgets import Select\r\n        super(ReadOnlyForm, self).__init__(*args, **kwargs)\r\n        for f in self.fields:\r\n            self.fields[f].label = _(self.fields[f].label)\r\n            if isinstance(self.fields[f].widget, Select):\r\n                self.fields[f].widget.attrs['disabled'] = 'disabled'\r\n            else:\r\n                self.fields[f].widget.attrs['readonly'] = 'readonly'\r\n```",
+      "date_created": "2017-02-22T09:30:08Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "read-only-model-form-base-class",
+      "status": 2,
+      "title": "Read-only Model Form Base Class",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 69
+  },
+  {
+    "fields": {
+      "content": "```\r\n:::python\r\nclass TrainingForm(forms.ModelForm):\r\n    start_date = forms.DateTimeField(\r\n        widget=DateTimeInput(\r\n            format='%d/%m/%Y %H:%M',\r\n            attrs={'placeholder': 'DD/MM/YYYY HH:MM'}),\r\n        input_formats=('%d/%m/%Y %H:%M',)\r\n    )\r\n```\r\n\r\nReferences: [Django DateTimeInput]\r\n\r\n  [Django DateTimeInput]: https://docs.djangoproject.com/en/1.10/ref/forms/widgets/#datetimeinput",
+      "date_created": "2017-02-23T08:45:56Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "django-datetimefield-on-modelform",
+      "status": 2,
+      "title": "Django DateTimeField on ModelForm",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 70
+  },
+  {
+    "fields": {
+      "content": "```\r\n:::python\r\nclass TrainingSessionForm(forms.ModelForm):\r\n    start_date = forms.DateTimeField(\r\n        widget=DateTimeInput(\r\n            format='%d/%m/%Y %H:%M',\r\n            attrs={'placeholder': 'DD/MM/YYYY HH:MM'}),\r\n        input_formats=['%d/%m/%Y %H:%M']\r\n\r\n    )\r\n\r\n    def __init__(self, data=None, company=None, *args, **kwargs):\r\n        super(TrainingSessionForm, self).__init__(data, *args, **kwargs)\r\n        instance = getattr(self, 'instance', None)\r\n\r\n        if instance and instance.id:\r\n            self.fields['start_date'].widget.attrs['readonly'] = True\r\n\r\n    def clean_start_date(self):\r\n        if self.instance.start_date:\r\n            return self.instance.start_date.strftime('%Y-%m-%d %H:%M')\r\n        else:\r\n            return self.cleaned_data['start_date']\r\n```",
+      "date_created": "2017-02-24T12:19:16Z",
+      "last_updated": "2017-08-09T14:16:39Z",
+      "likes": 0,
+      "slug": "django-required-read-only-form-fields",
+      "status": 2,
+      "title": "Django required read only form fields",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 71
+  },
+  {
+    "fields": {
+      "content": "Suppose you have a list of ids that was submitted on POST by a checkbox\r\nfield, and you would like to update a specific field in all the\r\ncorresponded objects to achieve this you can do:\r\n\r\n```\r\n:::python\r\nif request.method == 'POST':\r\n    id_list = request.POST.get('user_ids')\r\n    # convert string ids to int\r\n    id_list = list(map(int, id_list))\r\n    MyModel.objects.filter(id__in=id_list).update(myattribute=True)\r\n```",
+      "date_created": "2017-03-23T10:23:51Z",
+      "last_updated": "2017-08-08T20:20:09Z",
+      "likes": 0,
+      "slug": "how-to-update-several-objects-at-once-using-django",
+      "status": 2,
+      "title": "How to update several objects at once using Django",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 72
+  },
+  {
+    "fields": {
+      "content": "If when restarting your django server locally you get the message\r\n`Error: That port is already in use.` All you have to do is kill all the\r\nprocesses associated with the port in question.\r\n\r\nTo do that simply type on your terminal:\r\n\r\n```\r\n:::bash\r\nsudo fuser -k 8000/tcp  # this command will kill all processes associated with port 8000\r\n```\r\n\r\nYou can also use the command line network utility tool `netstat` to kill the process associated with the port Django is running on.\r\n\r\n```\r\n:::bash\r\nnetstat -ntlp\r\n```\r\n\r\nIt should display something like this:\r\n\r\n```\r\n:::bash\r\n(Not all processes could be identified, non-owned process info\r\n will not be shown, you would have to be root to see it all.)\r\nActive Internet connections (only servers)\r\nProto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name         \r\ntcp        0      0 127.0.0.1:8000          0.0.0.0:*               LISTEN      6599/python                  \r\ntcp        0      0 0.0.0.0:5432            0.0.0.0:*               LISTEN      -                   \r\ntcp        0      0 127.0.0.1:4381          0.0.0.0:*               LISTEN      31806/spotify       \r\ntcp        0      0 127.0.0.1:8000          0.0.0.0:*               LISTEN      30491/ssh           \r\ntcp        0      0 0.0.0.0:5355            0.0.0.0:*               LISTEN      -                   \r\ntcp        0      0 127.0.0.1:9485          0.0.0.0:*               LISTEN      30493/ssh \r\n\r\n```\r\n\r\nSo now you can just close the port in which Django is running by killing the process associated with it.\r\n\r\n```\r\n:::bash\r\nkill -9 <PID> # in this case: kill -9 6599\r\n```",
+      "date_created": "2017-04-11T13:35:28Z",
+      "last_updated": "2017-08-14T10:11:23Z",
+      "likes": 0,
+      "slug": "port-already-in-use",
+      "status": 2,
+      "title": "Port Already In Use",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 73
+  },
+  {
+    "fields": {
+      "content": "```\r\n:::mysql\r\nGRANT ALL PRIVILEGES ON *.* TO 'newuser'@'localhost';\r\n```\r\n\r\nThe asterisks in this command refer to the database and table\r\n(respectively) that they can access—this specific command allows to the\r\nuser to read, edit, execute and perform all tasks across all the\r\ndatabases and tables.\r\n\r\nOnce you have finalized the permissions that you want to set up for your\r\nnew users, always be sure to reload all the privileges.\r\n\r\n```\r\n:::mysql\r\nFLUSH PRIVILEGES;\r\n```\r\n\r\nYour changes will now be in effect.\r\n\r\n#### Granting different user permissions\r\n\r\nHere is a short list of other available permissions:\r\n\r\n-   `ALL PRIVILEGES` - Allows a MySQL user all access to a designated\r\n    database (or if no database is selected, across the system);\r\n-   `CREATE` - Allows a MySQL user to create new tables or databases;\r\n-   `DROP` - Allows a MySQL user to delete tables or databases;\r\n-   `DELETE` - Allows a MySQL user to delete rows from tables;\r\n-   `INSERT` - Allows a MySQL user to insert rows into tables;\r\n-   `SELECT` - Allows a MySQL user to use the `SELECT` command to read\r\n    through the database;\r\n-   `UPDATE` - Allows a MySQL user to update table rows;\r\n-   `GRANT OPTION` - Allows a MySQL user to grant or remove other user’s\r\n    privileges\r\n\r\nReferences: [How to create a new user and grant permissions in mysql]\r\n\r\n  [How to create a new user and grant permissions in mysql]: https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql",
+      "date_created": "2017-04-19T08:49:40Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "grant-user-permissions-in-mysql",
+      "status": 2,
+      "title": "Grant User Permissions in MySQL",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 74
+  },
+  {
+    "fields": {
+      "content": "When you are trying to drop a PostgreSQL DB e.g `target_db` and you find error as below\r\n\r\n```\r\n:::psql\r\npostgres=# DROP DATABASE target_db;\r\nERROR:  database \"target_db\" is being accessed by other users\r\nDETAIL:  There is 1 other session using the database.\r\npostgres=#\r\n```\r\n\r\nIf you get above error then there 1 active connection opened to target_db, so it cannot delete the selected database until the active connection is closed. So to delete the selected database first we need to close all existing connections to the selected database. This can be done with query as below\r\n\r\nPostgreSQL 9.2 and above:\r\n\r\n```\r\n:::psql\r\nSELECT pg_terminate_backend(pg_stat_activity.pid)\r\nFROM pg_stat_activity\r\nWHERE pg_stat_activity.datname = 'target_db'\r\nAND pid <> pg_backend_pid();\r\n```\r\n\r\nOnce above query is executed. We can drop the target db with out any error by executing below query\r\n\r\n```\r\n:::psql\r\nDROP DATABASE target_db\r\n```",
+      "date_created": "2017-06-05T21:17:30Z",
+      "last_updated": "2017-08-10T19:50:13Z",
+      "likes": 0,
+      "slug": "how-to-drop-a-postgresql-database-if-there-are-active-connections-to-it",
+      "status": 2,
+      "title": "How to drop a PostgreSQL database if there are active connections to it",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 75
+  },
+  {
+    "fields": {
+      "content": "```\r\n:::bash\r\n# Start PostgreSQL (Ubuntu)\r\nsudo -u postgres psql\r\n\r\n# Start PostgreSQL (Server)\r\npsql -h <host_id> -p <port_number> -U <username> <database_name>\r\n```",
+      "date_created": "2017-07-08T18:35:56Z",
+      "last_updated": "2017-12-12T09:23:08Z",
+      "likes": 0,
+      "slug": "how-to-start-postgresql",
+      "status": 2,
+      "title": "How to start PostgreSQL",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 76
+  },
+  {
+    "fields": {
+      "content": "### Stashing only one of multiple changed files changed:\r\n\r\n`git stash -p`\r\n\r\nThis command allows you to select which hunks should be added to stash, whole files can be selected as well.\r\n\r\nYou'll be prompted with a few actions for each hunk:\r\n\r\n```\r\n:::bash\r\ny - stash this hunk\r\nn - do not stash this hunk\r\nq - quit; do not stash this hunk or any of the remaining ones\r\na - stash this hunk and all later hunks in the file\r\nd - do not stash this hunk or any of the later hunks in the file\r\ng - select a hunk to go to\r\n/ - search for a hunk matching the given regex\r\nj - leave this hunk undecided, see next undecided hunk\r\nJ - leave this hunk undecided, see next hunk\r\nk - leave this hunk undecided, see previous undecided hunk\r\nK - leave this hunk undecided, see previous hunk\r\ns - split the current hunk into smaller hunks\r\ne - manually edit the current hunk\r\n? - print help\r\n```\r\n\r\n### Renaming current branch\r\n\r\n```\r\n:::bash\r\ngit branch -m new_branch_name\r\n# you can also re-name a different branch from the one you are currently in with\r\n# git branch -m old_branch_name new_branch_name\r\n```\r\n\r\nOnce done, delete the old branch on remote with:\r\n\r\n```\r\n:::bash\r\ngit push origin :old_branch_name\r\n```\r\n\r\nNow push the new branch to the remote with:\r\n\r\n```\r\n:::bash\r\ngit push origin new_branch_name:refs/heads/new_branch_name\r\n```\r\n\r\n### Check the difference between the current branch and the master branch\r\n\r\n```\r\n:::bash\r\ngit diff master branch_name`\r\n```",
+      "date_created": "2017-07-21T08:03:42Z",
+      "last_updated": "2017-09-28T14:36:00Z",
+      "likes": 0,
+      "slug": "git-cheat-sheet",
+      "status": 2,
+      "title": "Git cheat sheet",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 79
+  },
+  {
+    "fields": {
+      "content": "If you have an application which is represented in the django admin with a select drop-down for foreign keys, you probably noticed by now that as the drop-down gets bigger it will become a usability issue.\r\n\r\nOne solution is to use the `django-extensions` class `ForeignKeyAutocompleteAdmin` which will convert the select drop-down with foreign keys into an autocomplete text input.\r\n\r\nTo use the `ForeignKeyAutoCompleteAdmin` first install `django-extensions`:\r\n\r\n```\r\n:::bash\r\npip install django-extensions\r\n```\r\n\r\nThen in your application `admin.py` module add the following code:\r\n\r\n```\r\n:::python\r\nfrom django.contrib import admin\r\nfrom foo.models import Permission\r\nfrom django_extensions.admin import ForeignKeyAutocompleteAdmin\r\n\r\n\r\nclass PermissionAdmin(ForeignKeyAutocompleteAdmin):\r\n    # User is your FK attribute in your model\r\n    # first_name and email are attributes to search for in the FK model\r\n    related_search_fields = {\r\n       'user': ('first_name', 'email'),\r\n    }\r\n\r\n    fields = ('user', 'avatar', 'is_active')\r\n\r\n    ...\r\n\r\nadmin.site.register(Permission, PermissionAdmin)\r\n```\r\n\r\nResources:\r\n\r\n[Django-extensions - Current Admin Extensions](http://django-extensions.readthedocs.io/en/latest/admin_extensions.html)",
+      "date_created": "2017-08-14T08:49:22Z",
+      "last_updated": "2017-08-14T09:53:34Z",
+      "likes": 0,
+      "slug": "django-autocomplete-for-foreign-keys-in-the-django-admin",
+      "status": 2,
+      "title": "Django Autocomplete for Foreign Keys In the Django Admin",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 82
+  },
+  {
+    "fields": {
+      "content": "Heroku Local lets you easily run Django commands locally, for example:\r\n\r\n```\r\n:::bash\r\nheroku local:run python manage.py <command>\r\n```\r\n\r\nReferences:\r\n\r\n[Heroku local:run](https://devcenter.heroku.com/articles/heroku-local#run-your-app-locally-using-the-heroku-local-command-line-tool-run-a-one-off-command-locally target=\"_blank\")",
+      "date_created": "2017-09-24T16:03:12Z",
+      "last_updated": "2018-01-01T14:10:10Z",
+      "likes": 0,
+      "slug": "heroku-how-to-run-django-commands-locally",
+      "status": 2,
+      "title": "Heroku how to run Django commands locally",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 83
+  },
+  {
+    "fields": {
+      "content": "I don't understand why the cache is accumulated between the tests. I thought one of the axioms of unit testing is that the tests should not affect each other.\r\n\r\nCouldn't find anything that explains why it's done this way but it seems a bit strange. Anybody know if there's a reason or is this a reason for me to upload a patch to Django code?\r\n\r\n```\r\n:::python \r\nfrom django.test import TestCase\r\nfrom django.core.cache import cache\r\nfrom django.conf import settings\r\n\r\nclass MyTests(TestCase):\r\n    def tearDown(self):\r\n        [cache.delete(key) for key in cache._cache.keys()]  # cache.clear() for newer versions of Django\r\n```\r\n\r\nReferences:\r\n\r\n[Reset cache between tests](https://djangosnippets.org/snippets/1789/)",
+      "date_created": "2017-11-20T16:43:16Z",
+      "last_updated": "2017-11-29T22:04:11Z",
+      "likes": 0,
+      "slug": "reset-cache-between-tests",
+      "status": 3,
+      "title": "Reset cache between tests",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 84
+  },
+  {
+    "fields": {
+      "content": "In order to backup your postgres database into a custom format (`.dump`) you can simply execute:\r\n\r\n```\r\n:::bash\r\npg_dump --format=c -U <username> <database_name> > <backup_file>.dump\r\n```\r\n\r\nAnd to restore the backup:\r\n\r\n```\r\n:::bash\r\npg_restore -v -U <username> -d <databse_name> <backup_file>.dump\r\n```\r\n\r\nResources:\r\n\r\n* [Postgres pg_dump](http://www.postgresql.org/docs/current/interactive/app-pgdump.html)\r\n* [Postgres pg_restore](http://www.postgresql.org/docs/9.2/static/app-pgrestore.html)",
+      "date_created": "2017-12-12T14:01:57Z",
+      "last_updated": "2018-01-03T09:26:58Z",
+      "likes": 0,
+      "slug": "backup-and-restore-postgres-database-into-a-custom-format",
+      "status": 2,
+      "title": "Backup and restore postgres database into a custom format",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 85
+  },
+  {
+    "fields": {
+      "content": "If you have a docker container with postgres installed, you might have wondered how would you query your postgres database from within the container.\r\n\r\nTo do this you can simply execute the container shell in an interactive mode by executing the following command.\r\n\r\n```\r\n:::bash\r\ndocker exec -it <container_name> /bin/bash\r\n```\r\n\r\nOnce you inside the container you can execute postgres.\r\n\r\n```\r\n:::bash\r\npsql -U <username>  # default is `postgres`\r\n```",
+      "date_created": "2018-01-02T14:08:57Z",
+      "last_updated": "2018-01-02T14:43:01Z",
+      "likes": 0,
+      "slug": "how-to-query-your-postgres-database-from-within-a-docker-container",
+      "status": 2,
+      "title": "How to query your postgres database from within a docker container",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 86
+  },
+  {
+    "fields": {
+      "content": "To copy a file from your host machine to your docker container\r\n\r\nThe docker cp utility copies the contents of SRC_PATH to the DEST_PATH. You can copy from the container’s file system to the local machine or the reverse, from the local filesystem to the container. If - is specified for either the SRC_PATH or DEST_PATH, you can also stream a tar archive from STDIN or to STDOUT. The CONTAINER can be a running or stopped container. The SRC_PATH or DEST_PATH can be a file or directory.\r\n\r\nFrom your host machine into your container\r\n```\r\n:::bash\r\ndocker cp /path/file.txt <container_name>:/file.txt\r\n```\r\n\r\nFrom your container to your host machine\r\n```\r\n:::bash\r\ndocker cp <container_name>:/file.txt /path/file.txt\r\n```",
+      "date_created": "2018-01-02T14:17:39Z",
+      "last_updated": "2018-01-02T14:21:44Z",
+      "likes": 0,
+      "slug": "how-to-copy-files-from-your-host-machine-into-your-docker-container",
+      "status": 2,
+      "title": "How to copy files from your host machine into your docker container",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 87
+  },
+  {
+    "fields": {
+      "content": "To fetch the logs of a container simply execute:\r\n\r\n```\r\n:::bash\r\ndocker container logs <container_name>\r\n```\r\n\r\nReferences:\r\n\r\n* [Docker Container Logs](https://docs.docker.com/engine/reference/commandline/container_logs/)",
+      "date_created": "2018-01-03T11:28:45Z",
+      "last_updated": "2018-01-03T11:28:45Z",
+      "likes": 0,
+      "slug": "docker-container-logs",
+      "status": 2,
+      "title": "Docker container logs",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 88
+  },
+  {
+    "fields": {
+      "content": "If you want to undo a git commit on your local branch you can simply execute:\r\n\r\n```\r\n:::bash\r\ngit reset --hard HEAD~1\r\n```\r\n\r\nOnce done you can just push your changes to your remote branch with:\r\n\r\n```\r\n:::bash\r\ngit push origin <branch_name>\r\n```\r\n\r\nHowever if you need to undo the commits you made to your remote branch, you can simply execute on your local branch:\r\n\r\n```\r\n:::bash\r\ngit reset --hard HEAD~2\r\n```\r\n\r\nThen in order to update your remote branch you need to `force` push your changes with:\r\n\r\n```\r\n:::bash\r\ngit push origin <branch_name> -f\r\n```",
+      "date_created": "2018-01-10T09:46:44Z",
+      "last_updated": "2018-01-10T09:46:44Z",
+      "likes": 0,
+      "slug": "how-to-undo-a-git-commit",
+      "status": 2,
+      "title": "How to undo a git commit",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 89
+  },
+  {
+    "fields": {
+      "content": "In order to format which columns are displayed when executing `docker ps` you can simply use the `--format` parameter, e.g:\r\n\r\n```\r\n:::bash\r\ndocker ps --format=\"table {{.ID}}\\t{{.Names}}\\t{{.Image}}\\t{{.Status}}\\t{{.Ports}}\"\r\n```\r\n\r\nAnother alternative is to place the command above into an alias in your `.bashrc`, e.g:\r\n\r\n```\r\n:::bash\r\nalias dps='docker ps --format=\"table {{.ID}}\\t{{.Names}}\\t{{.Image}}\\t{{.Status}}\\t{{.Ports}}\"'\r\n```",
+      "date_created": "2018-01-15T13:32:27Z",
+      "last_updated": "2018-01-15T13:32:27Z",
+      "likes": 0,
+      "slug": "format-output-of-docker-ps",
+      "status": 2,
+      "title": "Format output of docker ps",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 90
+  },
+  {
+    "fields": {
+      "content": "## Encapsulation\r\n\r\nThe facility by which we can store data into an object and provide for data integrity by using `getter` and `setter` methods.\r\n\r\n## Inheritance\r\n\r\nThe ability to have one class inherit the attributes of another class.\r\n\r\n## Polymorphism\r\n\r\nPolymorphism means many shapes, this refers to a design in which objects of the similar types can be treated in the same matter. More spcifically refers to two classes that have methods of the same name.",
+      "date_created": "2018-01-15T16:14:04Z",
+      "last_updated": "2018-03-14T16:52:53Z",
+      "likes": 0,
+      "slug": "python-oop-3-main-principles",
+      "status": 2,
+      "title": "Python OOP 3 Main principles",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 91
+  },
+  {
+    "fields": {
+      "content": "### Update an object\r\n\r\n```\r\n:::python\r\n# 1 \r\nsession.query(User).filter_by(email='admin@mail.com').update(dict(email='superadmin@mail.com'))\r\nsession.commit()\r\n\r\n# 2\r\nconn = engine.connect()\r\nstmt = User.update().values(no_of_logins=(User.no_of_logins + 1)).where(User.username == form.username.data)\r\nconn.execute(stmt)\r\n\r\n# 3\r\nsetattr(user, 'no_of_logins', user.no_of_logins+1)\r\nsession.commit()\r\n```",
+      "date_created": "2018-02-12T14:40:59Z",
+      "last_updated": "2018-02-12T14:40:59Z",
+      "likes": 0,
+      "slug": "3-different-ways-to-update-sqlalchemy-objects",
+      "status": 2,
+      "title": "3 Different ways to update sqlalchemy objects",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 92
+  },
+  {
+    "fields": {
+      "content": "Lets say you have a table called `users` and you wish to create another row with the same information as the first row.\r\n\r\nHere's how you can achieve that:\r\n\r\n```\r\n:::sql\r\nINSERT INTO users (password, email, name)\r\nSELECT password, 'worker@mail.com' as email, name\r\nFROM users\r\nWHERE id = 1;\r\n```\r\n\r\n**References:**\r\n\r\n* [postgreSQL: how to duplicate a row](https://stackoverflow.com/questions/15429756/postgresql-how-to-duplicate-a-row)",
+      "date_created": "2018-03-20T13:24:09Z",
+      "last_updated": "2018-03-20T13:28:43Z",
+      "likes": 0,
+      "slug": "how-to-duplicate-a-row-in-sql",
+      "status": 2,
+      "title": "How to duplicate a row in SQL",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 93
+  },
+  {
+    "fields": {
+      "content": "You can use git rebase, for example, if you want to modify back to commit bbc643cd, run\r\n\r\n```\r\n:::bash\r\n$ git rebase --interactive 'bbc643cd^'\r\n```\r\n\r\nIn the default editor, modify pick to edit in the line whose commit you want to modify. Make your changes and then commit them with the same message you had before:\r\n\r\n\r\n```\r\n:::bash\r\n$ git commit --all --amend --no-edit\r\n```\r\n\r\nto modify the commit, and after that\r\n\r\n```\r\n:::bash\r\n$ git rebase --continue\r\n```\r\n\r\nto return back to the previous head commit.\r\n\r\nWARNING: Note that this will change the SHA-1 of that commit as well as all children -- in other words, this rewrites the history from that point forward. You can break repos doing this if you push using the command git push --force",
+      "date_created": "2018-04-20T10:45:49Z",
+      "last_updated": "2018-04-20T10:45:49Z",
+      "likes": 0,
+      "slug": "how-to-modify-a-specified-commit-in-git",
+      "status": 2,
+      "title": "How to modify a specified commit in git?",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 94
+  },
+  {
+    "fields": {
+      "content": "Capturing STDOUT breaks debugging tools like `pdb`, `ipdb`, etc., and can be disabled using the `--nocapture` or `-s` flag.\r\n\r\n* References:\r\n    * [Python testing with nose](https://testing-cookbook.18f.gov/python/nose/)",
+      "date_created": "2018-06-12T12:02:47Z",
+      "last_updated": "2018-06-12T12:02:47Z",
+      "likes": 0,
+      "slug": "disable-stdout-in-nose-tests",
+      "status": 2,
+      "title": "Disable STDOUT in Nose Tests",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 95
+  },
+  {
+    "fields": {
+      "content": "- `DROP TABLE <table_name>` Drop table\r\n- `CREATE DATABASE <database_name>` Create database\r\n- `CREATE USER <user_name> WITH PASSWORD 'user_password'` Create a user\r\n- `GRANT ALL PRIVILEGES ON DATABASE <database_name> TO <user_name>` Grant all privileges on database to a user\r\n- `DROP DATABASE [IF EXISTS] <database_name>` Drop database\r\n- `DROP USER [IF EXISTS] <user_name>` Drop user\r\n- `DELETE FROM <table_name> WHERE id=123` Delete from table\r\n- `SELECT COUNT(*) FROM <table_name>` Count table rows\r\n- `UPDATE <table_name> SET <column_name> = <new_value> WHERE <condition>;` Update field in table",
+      "date_created": "2018-07-15T21:28:52.897Z",
+      "last_updated": "2018-07-15T21:28:52.897Z",
+      "likes": 0,
+      "slug": "sql-commands",
+      "status": 2,
+      "title": "SQL commands",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 96
+  },
+  {
+    "fields": {
+      "content": "Ubuntu includes GNU tar, which recognizes the format by itself. One command works with any supported compression method.\r\n\r\nExample:\r\n\r\n```\r\n:::bash\r\ntar xf archive.tar.xz\r\ntar xf archive.tar.gz\r\ntar xf archive.tar\r\n```\r\n\r\nIf while trying to uncompress a tarball file you get a `Cannot exec` error, you may need to install `xz-utils` with `sudo apt install xz-utils`.",
+      "date_created": "2018-07-20T16:11:06.806Z",
+      "last_updated": "2018-07-20T16:11:06.806Z",
+      "likes": 0,
+      "slug": "how-to-uncompress-tarball-files-in-ubuntu",
+      "status": 2,
+      "title": "How to uncompress tarball files in Ubuntu",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 97
+  },
+  {
+    "fields": {
+      "content": "OAuth is an authorization framework that enables applications (in this case, this application) to obtain limited access to the user accounts. OAuth works by delegating the user authentication to the service that hosts the user account (the user account might be hosted by Facebook, Google, Github, etc) and authorizing third-party applications to access the user account.\r\n\r\nOAuth defines four roles:\r\n* Resource Owner\r\n* Client\r\n* Resource Server\r\n* Authorization Server\r\n\r\n### Resource Owner (the user)\r\nThe resource owner is the user who authorizes an \"application\" to access their account. The application access to the user's account is limited to the \"scope\" of the authorization granted (read or write access).\r\n\r\n\r\n### Client (the application)\r\nThe client is the application that wants to access the user's account. Before it may do so, it must be authorized by the user and the authorization must be validated by the API.\r\n\r\n\r\n### Resource / Authorization Server\r\nThe resource server hosts the protected user accounts, and the authorization server verifies the identity of the user then issues access tokens to the application.\r\n\r\n\r\nFor instance:\r\n\r\n* A \"User\" wants to view an application content but needs to be logged in;\r\n* The \"User\" does not want to register with the applicaion, so he decides to login with his Google account;\r\n* So the application sends an \"Authorization Requests\" the \"User\", so that it can verify his identity against Google;\r\n* The \"User\" sends back an \"Authorization Grant\" which will be used by the application and sent to the \"Authorization Server\" (sent to Google);\r\n* Google sees the \"Authorization Grant\" confirms the user identity and sends an \"Access Token\" back to the application;\r\n* The application uses the \"Access Token\" and sends it to the \"Resource Server\" in order to access the user account/details;\r\n* The \"Resource Server\" receives the token and if the token is valid, sends back the user resource/information.\r\n\r\nThe actual flow of this process will differ depending on the authorization grant type in use, this is the general idea.",
+      "date_created": "2018-08-20T12:34:09.458Z",
+      "last_updated": "2018-08-20T12:37:00.383Z",
+      "likes": 0,
+      "slug": "django-oauth",
+      "status": 1,
+      "title": "Django OAuth",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 98
+  },
+  {
+    "fields": {
+      "content": "In order to view the difference between the tips of two branches execute:\r\n\r\n```bash\r\ngit diff branch_1..branch_2\r\n```\r\n\r\nHowever if you would prefer to find the difference from their common ancestor you would use three dots instead of two, example:\r\n\r\n```bash\r\ngit diff branch_1...branch_2\r\n```",
+      "date_created": "2018-10-03T08:09:30.178Z",
+      "last_updated": "2018-10-03T08:09:30.178Z",
+      "likes": 0,
+      "slug": "difference-between-two-branches",
+      "status": 2,
+      "title": "Difference between two branches",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 99
+  },
+  {
+    "fields": {
+      "content": "To check for the existence of an object using `sqlalchemy` you can either execute an `exists()` or a `scalar()` method, example:\r\n\r\nUsing the `exists()` method\r\n\r\n```python\r\n(obj, ), = Session.query(exists().where(SomeObject.field == value))\r\n```\r\n\r\nUsing the `scalar()` method along with the `exists()` method, you don't need to assign the returned value to a tuple\r\n\r\n```python\r\nobj = Session.query(exists().where(SomeObject.field == value)).scalar()\r\n```\r\n\r\n* References:\r\n\r\n    [Selecting booleans](http://techspot.zzzeek.org/2008/09/09/selecting-booleans/)\r\n\r\n    [Stackoverflow](https://stackoverflow.com/a/16003360)",
+      "date_created": "2018-10-03T08:39:36.915Z",
+      "last_updated": "2018-11-06T23:05:45.777Z",
+      "likes": 0,
+      "slug": "check-if-an-object-exists",
+      "status": 2,
+      "title": "Check if an object exists",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 100
+  },
+  {
+    "fields": {
+      "content": "Here is a simple example on how to serialize and deserialize request and response data using `marshmallow`\r\n\r\n`resources.py`\r\n```python\r\nfrom flask import request\r\nfrom flask_restful import Resource\r\n\r\nfrom app import db\r\nfrom app.models import User\r\nfrom app.schemas import UserSchema\r\n\r\n\r\nclass UserListResource(Resource):\r\n\r\n    def get(self):\r\n        users = User.query.all()\r\n        result = UserSchema().dump(users, many=True).data\r\n        return result.data, 200\r\n\r\n    def post(self):\r\n        data, errors = UserSchema().load(request.get_json())\r\n    \r\n        if errors:\r\n            logger.info(\"Cannot create event, data: %s\", request.get_json())\r\n            return errors, 400\r\n\r\n        new_user = User(**data)\r\n        db.session.add(new_user)\r\n        db.session.commit()\r\n        result = UserSchema().dump(new_user)\r\n        return result.data, 200\r\n```\r\n\r\nand in `schemas.py`\r\n\r\n```python\r\n\r\nfrom marshmallow import Schema, fields\r\n\r\n\r\nclass UserSchema(Schema):\r\n    id = fields.Integer(dump_only=True)\r\n    email = fields.String(required=True)\r\n    first_name = fields.String(required=True)\r\n    last_name = fields.String(required=True)\r\n    created_at = fields.DateTime(dump_to='createdAt', load_from='createdAt', format='iso', required=True)\r\n    last_updated = fields.DateTime(dump_to='lastUpdated', load_from='lastUpdated', format='iso')\r\n    age = fields.Integer()\r\n```",
+      "date_created": "2018-11-06T23:28:02.747Z",
+      "last_updated": "2018-11-06T23:28:02.748Z",
+      "likes": 0,
+      "slug": "serialize-and-deserialize-data-with-marshmallow",
+      "status": 1,
+      "title": "Serialize and deserialize data with Marshmallow",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 101
+  },
+  {
+    "fields": {
+      "content": "Lets say you have two models `User` and `Organisation` where each user can be part of an organisation and each organisation has many users/people.\r\n\r\nSo now imagine that you need to find out using the relationship attribute which users belong to which organisation and which organisations have users named \r\n\r\nFor example\r\n\r\n```python\r\nclass User(db.Model):\r\n    id = db.Column(db.Integer(), unique=True)\r\n    email = db.Column(db.String(100), index=True, unique=True)\r\n    first_name = db.Column(db.String(100))\r\n    last_name = db.Column(db.String(100))\r\n    org_id = db.Column(db.Integer(), db.ForeignKey('organisation.id')\r\n\r\n\r\nclass Organisation(db.Model):\r\n    id = db.Column(db.Integer(), unique=True)\r\n    name = db.Column(db.String(100))\r\n    people = db.relationship(\r\n        'User',\r\n        backref='organisation',\r\n        foreign_keys='User.org_id',\r\n    )\r\n```\r\n\r\nReturn all organisations which the user with the email 'andy@mail.com' is part of:\r\n\r\n```bash\r\n>>> Organisation.query.join(Organisation.people).filter_by(email='andy@mail.com').all()\r\n[<Organisation: Tesla Ltd>]\r\n```\r\n\r\nReturn all users that belong to an organisation:\r\n```bash\r\n>>> User.query.join(User.organisation).filter_by(name'Tesla Ltd').all()\r\n[<User: pedro@mail.com>, <User: andy@mail.com>]\r\n```\r\n\r\n\r\nReferences:\r\n\r\n* https://stackoverflow.com/questions/8561470/sqlalchemy-filtering-by-relationship-attribute",
+      "date_created": "2018-12-11T20:33:34.145Z",
+      "last_updated": "2018-12-11T20:33:34.145Z",
+      "likes": 0,
+      "slug": "filtering-by-foreign-key-relationship",
+      "status": 1,
+      "title": "Filtering by foreign key relationship",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 102
+  },
+  {
+    "fields": {
+      "content": "```python\r\n# connect to S3\r\ns3 = boto3.resource(\r\n    's3',\r\n    aws_access_key_id=S3_KEY,\r\n    aws_secret_access_key=S3_SECRET\r\n)\r\n```\r\n\r\n```python\r\n# upload file to S3\r\ns3.Bucket(bucket_name).put_object(\r\n    Key=file.filename,\r\n    Body=file,\r\n    ACL='private',\r\n    ContentType=file.content_type,\r\n    SSEKMSKeyId=S3_SSEKMSKeyId,\r\n    ServerSideEncryption='aws:kms'\r\n)\r\n```\r\n`Key` this is where you specify where you want the file to be uploaded to within S3, for instance if you only specify the file name, then the file will be uploaded to the bucket root.\r\n\r\nHowever you if specify a path followed by the file name, e.g: 'uploaded_images/filename.pdf' then S3 will create the folder `uploaded_images` in the bucket root and store `filename.pdf` in it.\r\n\r\n\r\nReferences:\r\n\r\n* [Upload files to S3 using Flask](http://zabana.me/notes/upload-files-amazon-s3-flask.html)\r\n* [Flask how can I read the size of an image before uploading it to amazon](https://stackoverflow.com/questions/46351964/python-flask-how-can-i-read-the-size-of-an-image-before-uploading-it-to-amazon)\r\n* [Saving an image to bytes and uploading to boto3 returning content-md5 mismatch](https://stackoverflow.com/questions/36274868/saving-an-image-to-bytes-and-uploading-to-boto3-returning-content-md5-mismatch)",
+      "date_created": "2018-12-30T22:01:26.800Z",
+      "last_updated": "2018-12-30T22:10:11.764Z",
+      "likes": 0,
+      "slug": "upload-files-to-amazon-s3",
+      "status": 1,
+      "title": "Upload files to Amazon S3",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 103
+  },
+  {
+    "fields": {
+      "content": "```python\r\nimport magic\r\nmime = magic.Magic(mime=True)\r\nmime.from_file('file/path.txt')\r\n'application/txt'\r\n```\r\n\r\nReferences:\r\n\r\n* [Python file mime type](https://stackoverflow.com/a/2753385)",
+      "date_created": "2019-02-06T14:02:40.888Z",
+      "last_updated": "2019-02-06T14:02:40.888Z",
+      "likes": 0,
+      "slug": "finding-the-mime-type-of-a-file-in-python",
+      "status": 2,
+      "title": "Finding the mime type of a file in python",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 104
+  },
+  {
+    "fields": {
+      "content": "Sometimes when you uploading files to your application, you will want to know the size of the file it's being uploaded so that you can implement some size restrictions.\r\n\r\nTo do this, simply set a max file upload limit via the `MAX_CONTENT_LENGTH` settings, for example if you want to restrict files with a limit size of 16 megabytes simply add:\r\n\r\n```python\r\napp.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024\r\n```\r\n\r\nIf the file is too large, Flask will automatically return status code `413 Request Entity Too Large`.\r\n\r\nReferences:\r\n\r\n* [Flask: Get the size of request.files object](https://stackoverflow.com/a/15773118)",
+      "date_created": "2019-02-06T14:12:21.192Z",
+      "last_updated": "2019-02-06T14:12:21.192Z",
+      "likes": 0,
+      "slug": "restrict-file-uploading-based-on-size",
+      "status": 2,
+      "title": "Restrict file uploading based on size",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 105
+  },
+  {
+    "fields": {
+      "content": "**Get current credentials**\r\n```sh\r\naws sts get-caller-identity\r\n```\r\n\r\n**List contents of a bucket**\r\n```sh\r\naws s3 ls s3://mybucketname/foldername/\r\n```\r\n\r\n**List contents of a bucket recursively**\r\n```sh\r\naws s3 ls s3://mybucketname --recursively\r\n```\r\n\r\n**Copying an S3 object to a local file**\r\n```sh\r\naws s3 cp s3://mybucket/test.txt test2.txt\r\n```",
+      "date_created": "2019-02-14T10:32:11.812Z",
+      "last_updated": "2019-02-17T16:53:42.800Z",
+      "likes": 0,
+      "slug": "aws-cli-in-s3-cheatsheet",
+      "status": 2,
+      "title": "AWS CLI in S3 Cheatsheet",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 106
+  },
+  {
+    "fields": {
+      "content": "```sh\r\nsudo apt-get update\r\nsudo apt-get install hplip hplip-gui xsane\r\nhp-setup\r\nhp-plugin\r\n```\r\n\r\nThe `install` command will bring in all the repo packages needed for the gui and for the scanner. That should address the \"requires gui support\" issue.\r\n\r\nThe last command will cause the download of some HP software to interface with the scanner and perform the \"scanner installation.\"\r\n\r\n\r\n    \r\nReferences:\r\n\r\n* [problem with printer HP deskjet 2600](https://forums.linuxmint.com/viewtopic.php?t=275192#p1509239)",
+      "date_created": "2019-02-17T17:00:06.213Z",
+      "last_updated": "2019-02-17T17:03:42.771Z",
+      "likes": 0,
+      "slug": "install-hp-printer-dependencies",
+      "status": 2,
+      "title": "Install HP Printer dependencies",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 139
+  },
+  {
+    "fields": {
+      "content": "To install Mongo db in linux mint first follow [these steps](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/).\r\n\r\nThen create the following folder structure `mkdir /data/db`, make it writable by everyone with `sudo chmod -R go+w /data/db`.\r\n\r\n\r\nCreate a service script with `sudo vim /etc/systemd/system/mongod.service` and add the following contents:\r\n\r\n```bash\r\n[Unit]\r\nDescription=MongoDB Database Service\r\nWants=network.target\r\nAfter=network.target\r\n\r\n[Service]\r\nExecStart=/usr/bin/mongod --config /etc/mongod.conf\r\nExecReload=/bin/kill -HUP $MAINPID\r\nRestart=always\r\nUser=mongodb\r\nGroup=mongodb\r\nStandardOutput=syslog\r\nStandardError=syslog\r\n\r\n[Install]\r\nWantedBy=multi-user.target\r\n```\r\n\r\n\r\nReferences:\r\n\r\n* [Mongo DB /data/db directory](https://stackoverflow.com/a/42447303)\r\n* [Mongo Can't start service](https://www.digitalocean.com/community/questions/mongo-cant-start-service)\r\n* [Running Mongo DB on Ubuntu](https://stackoverflow.com/questions/37014186/running-mongodb-on-ubuntu-16-04-lts)",
+      "date_created": "2019-03-03T17:36:07.163Z",
+      "last_updated": "2019-03-03T17:49:53.677Z",
+      "likes": 0,
+      "slug": "setup-mongo-database-in-linux-mint",
+      "status": 2,
+      "title": "Setup Mongo database in Linux Mint",
+      "views": 0
+    },
+    "model": "blog.posts",
+    "pk": 140
+  },
+  {
+    "fields": {
+      "post": 1,
+      "tag": 1
+    },
+    "model": "blog.posttags",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "post": 2,
+      "tag": 4
+    },
+    "model": "blog.posttags",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "post": 3,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "post": 4,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "post": 5,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "post": 6,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "post": 4,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 7
+  },
+  {
+    "fields": {
+      "post": 7,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 8
+  },
+  {
+    "fields": {
+      "post": 8,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 9
+  },
+  {
+    "fields": {
+      "post": 9,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 10
+  },
+  {
+    "fields": {
+      "post": 10,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 11
+  },
+  {
+    "fields": {
+      "post": 11,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 12
+  },
+  {
+    "fields": {
+      "post": 12,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 13
+  },
+  {
+    "fields": {
+      "post": 13,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 14
+  },
+  {
+    "fields": {
+      "post": 15,
+      "tag": 4
+    },
+    "model": "blog.posttags",
+    "pk": 16
+  },
+  {
+    "fields": {
+      "post": 15,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 17
+  },
+  {
+    "fields": {
+      "post": 17,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 19
+  },
+  {
+    "fields": {
+      "post": 18,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 20
+  },
+  {
+    "fields": {
+      "post": 20,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 22
+  },
+  {
+    "fields": {
+      "post": 21,
+      "tag": 4
+    },
+    "model": "blog.posttags",
+    "pk": 23
+  },
+  {
+    "fields": {
+      "post": 22,
+      "tag": 4
+    },
+    "model": "blog.posttags",
+    "pk": 24
+  },
+  {
+    "fields": {
+      "post": 22,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 25
+  },
+  {
+    "fields": {
+      "post": 23,
+      "tag": 7
+    },
+    "model": "blog.posttags",
+    "pk": 26
+  },
+  {
+    "fields": {
+      "post": 23,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 27
+  },
+  {
+    "fields": {
+      "post": 24,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 28
+  },
+  {
+    "fields": {
+      "post": 26,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 29
+  },
+  {
+    "fields": {
+      "post": 26,
+      "tag": 8
+    },
+    "model": "blog.posttags",
+    "pk": 30
+  },
+  {
+    "fields": {
+      "post": 27,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 31
+  },
+  {
+    "fields": {
+      "post": 30,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 37
+  },
+  {
+    "fields": {
+      "post": 31,
+      "tag": 12
+    },
+    "model": "blog.posttags",
+    "pk": 38
+  },
+  {
+    "fields": {
+      "post": 31,
+      "tag": 13
+    },
+    "model": "blog.posttags",
+    "pk": 39
+  },
+  {
+    "fields": {
+      "post": 31,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 40
+  },
+  {
+    "fields": {
+      "post": 32,
+      "tag": 14
+    },
+    "model": "blog.posttags",
+    "pk": 42
+  },
+  {
+    "fields": {
+      "post": 33,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 43
+  },
+
+  {
+    "fields": {
+      "post": 34,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 45
+  },
+  {
+    "fields": {
+      "post": 34,
+      "tag": 8
+    },
+    "model": "blog.posttags",
+    "pk": 46
+  },
+  {
+    "fields": {
+      "post": 35,
+      "tag": 8
+    },
+    "model": "blog.posttags",
+    "pk": 47
+  },
+  {
+    "fields": {
+      "post": 35,
+      "tag": 13
+    },
+    "model": "blog.posttags",
+    "pk": 48
+  },
+  {
+    "fields": {
+      "post": 35,
+      "tag": 15
+    },
+    "model": "blog.posttags",
+    "pk": 49
+  },
+  {
+    "fields": {
+      "post": 35,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 50
+  },
+  {
+    "fields": {
+      "post": 36,
+      "tag": 7
+    },
+    "model": "blog.posttags",
+    "pk": 51
+  },
+  {
+    "fields": {
+      "post": 36,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 52
+  },
+  {
+    "fields": {
+      "post": 36,
+      "tag": 13
+    },
+    "model": "blog.posttags",
+    "pk": 53
+  },
+  {
+    "fields": {
+      "post": 37,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 54
+  },
+  {
+    "fields": {
+      "post": 39,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 56
+  },
+  {
+    "fields": {
+      "post": 40,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 57
+  },
+  {
+    "fields": {
+      "post": 41,
+      "tag": 14
+    },
+    "model": "blog.posttags",
+    "pk": 58
+  },
+  {
+    "fields": {
+      "post": 41,
+      "tag": 16
+    },
+    "model": "blog.posttags",
+    "pk": 59
+  },
+  {
+    "fields": {
+      "post": 42,
+      "tag": 1
+    },
+    "model": "blog.posttags",
+    "pk": 60
+  },
+  {
+    "fields": {
+      "post": 42,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 61
+  },
+  {
+    "fields": {
+      "post": 42,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 62
+  },
+  {
+    "fields": {
+      "post": 42,
+      "tag": 18
+    },
+    "model": "blog.posttags",
+    "pk": 63
+  },
+  {
+    "fields": {
+      "post": 32,
+      "tag": 16
+    },
+    "model": "blog.posttags",
+    "pk": 71
+  },
+  {
+    "fields": {
+      "post": 56,
+      "tag": 19
+    },
+    "model": "blog.posttags",
+    "pk": 102
+  },
+  {
+    "fields": {
+      "post": 59,
+      "tag": 8
+    },
+    "model": "blog.posttags",
+    "pk": 131
+  },
+  {
+    "fields": {
+      "post": 61,
+      "tag": 28
+    },
+    "model": "blog.posttags",
+    "pk": 145
+  },
+  {
+    "fields": {
+      "post": 61,
+      "tag": 29
+    },
+    "model": "blog.posttags",
+    "pk": 146
+  },
+  {
+    "fields": {
+      "post": 61,
+      "tag": 30
+    },
+    "model": "blog.posttags",
+    "pk": 147
+  },
+  {
+    "fields": {
+      "post": 19,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 148
+  },
+  {
+    "fields": {
+      "post": 62,
+      "tag": 19
+    },
+    "model": "blog.posttags",
+    "pk": 150
+  },
+  {
+    "fields": {
+      "post": 74,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 221
+  },
+  {
+    "fields": {
+      "post": 72,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 224
+  },
+  {
+    "fields": {
+      "post": 72,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 225
+  },
+  {
+    "fields": {
+      "post": 71,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 230
+  },
+  {
+    "fields": {
+      "post": 71,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 231
+  },
+  {
+    "fields": {
+      "post": 70,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 232
+  },
+  {
+    "fields": {
+      "post": 70,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 233
+  },
+  {
+    "fields": {
+      "post": 69,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 236
+  },
+  {
+    "fields": {
+      "post": 69,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 237
+  },
+  {
+    "fields": {
+      "post": 68,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 244
+  },
+  {
+    "fields": {
+      "post": 68,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 245
+  },
+  {
+    "fields": {
+      "post": 67,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 246
+  },
+  {
+    "fields": {
+      "post": 67,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 247
+  },
+  {
+    "fields": {
+      "post": 66,
+      "tag": 33
+    },
+    "model": "blog.posttags",
+    "pk": 248
+  },
+  {
+    "fields": {
+      "post": 66,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 249
+  },
+  {
+    "fields": {
+      "post": 65,
+      "tag": 32
+    },
+    "model": "blog.posttags",
+    "pk": 250
+  },
+  {
+    "fields": {
+      "post": 64,
+      "tag": 31
+    },
+    "model": "blog.posttags",
+    "pk": 253
+  },
+  {
+    "fields": {
+      "post": 63,
+      "tag": 31
+    },
+    "model": "blog.posttags",
+    "pk": 296
+  },
+  {
+    "fields": {
+      "post": 63,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 297
+  },
+  {
+    "fields": {
+      "post": 60,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 301
+  },
+  {
+    "fields": {
+      "post": 60,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 302
+  },
+  {
+    "fields": {
+      "post": 60,
+      "tag": 14
+    },
+    "model": "blog.posttags",
+    "pk": 303
+  },
+  {
+    "fields": {
+      "post": 58,
+      "tag": 19
+    },
+    "model": "blog.posttags",
+    "pk": 310
+  },
+  {
+    "fields": {
+      "post": 55,
+      "tag": 8
+    },
+    "model": "blog.posttags",
+    "pk": 314
+  },
+  {
+    "fields": {
+      "post": 55,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 315
+  },
+  {
+    "fields": {
+      "post": 54,
+      "tag": 8
+    },
+    "model": "blog.posttags",
+    "pk": 316
+  },
+  {
+    "fields": {
+      "post": 54,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 317
+  },
+  {
+    "fields": {
+      "post": 53,
+      "tag": 19
+    },
+    "model": "blog.posttags",
+    "pk": 318
+  },
+  {
+    "fields": {
+      "post": 53,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 319
+  },
+  {
+    "fields": {
+      "post": 52,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 320
+  },
+  {
+    "fields": {
+      "post": 52,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 321
+  },
+  {
+    "fields": {
+      "post": 51,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 322
+  },
+  {
+    "fields": {
+      "post": 50,
+      "tag": 8
+    },
+    "model": "blog.posttags",
+    "pk": 329
+  },
+  {
+    "fields": {
+      "post": 50,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 330
+  },
+  {
+    "fields": {
+      "post": 49,
+      "tag": 13
+    },
+    "model": "blog.posttags",
+    "pk": 331
+  },
+  {
+    "fields": {
+      "post": 49,
+      "tag": 22
+    },
+    "model": "blog.posttags",
+    "pk": 332
+  },
+  {
+    "fields": {
+      "post": 49,
+      "tag": 23
+    },
+    "model": "blog.posttags",
+    "pk": 333
+  },
+  {
+    "fields": {
+      "post": 49,
+      "tag": 15
+    },
+    "model": "blog.posttags",
+    "pk": 334
+  },
+  {
+    "fields": {
+      "post": 48,
+      "tag": 21
+    },
+    "model": "blog.posttags",
+    "pk": 336
+  },
+  {
+    "fields": {
+      "post": 47,
+      "tag": 18
+    },
+    "model": "blog.posttags",
+    "pk": 339
+  },
+  {
+    "fields": {
+      "post": 46,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 340
+  },
+  {
+    "fields": {
+      "post": 45,
+      "tag": 19
+    },
+    "model": "blog.posttags",
+    "pk": 341
+  },
+  {
+    "fields": {
+      "post": 45,
+      "tag": 13
+    },
+    "model": "blog.posttags",
+    "pk": 342
+  },
+  {
+    "fields": {
+      "post": 45,
+      "tag": 20
+    },
+    "model": "blog.posttags",
+    "pk": 343
+  },
+  {
+    "fields": {
+      "post": 44,
+      "tag": 12
+    },
+    "model": "blog.posttags",
+    "pk": 344
+  },
+  {
+    "fields": {
+      "post": 75,
+      "tag": 1
+    },
+    "model": "blog.posttags",
+    "pk": 347
+  },
+  {
+    "fields": {
+      "post": 82,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 388
+  },
+  {
+    "fields": {
+      "post": 73,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 393
+  },
+  {
+    "fields": {
+      "post": 73,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 394
+  },
+  {
+    "fields": {
+      "post": 79,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 405
+  },
+  {
+    "fields": {
+      "post": 84,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 412
+  },
+  {
+    "fields": {
+      "post": 76,
+      "tag": 1
+    },
+    "model": "blog.posttags",
+    "pk": 415
+  },
+  {
+    "fields": {
+      "post": 83,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 430
+  },
+  {
+    "fields": {
+      "post": 83,
+      "tag": 38
+    },
+    "model": "blog.posttags",
+    "pk": 431
+  },
+  {
+    "fields": {
+      "post": 87,
+      "tag": 27
+    },
+    "model": "blog.posttags",
+    "pk": 436
+  },
+  {
+    "fields": {
+      "post": 86,
+      "tag": 27
+    },
+    "model": "blog.posttags",
+    "pk": 438
+  },
+  {
+    "fields": {
+      "post": 85,
+      "tag": 1
+    },
+    "model": "blog.posttags",
+    "pk": 441
+  },
+  {
+    "fields": {
+      "post": 88,
+      "tag": 27
+    },
+    "model": "blog.posttags",
+    "pk": 442
+  },
+  {
+    "fields": {
+      "post": 89,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 443
+  },
+  {
+    "fields": {
+      "post": 90,
+      "tag": 27
+    },
+    "model": "blog.posttags",
+    "pk": 444
+  },
+  {
+    "fields": {
+      "post": 38,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 446
+  },
+  {
+    "fields": {
+      "post": 92,
+      "tag": 13
+    },
+    "model": "blog.posttags",
+    "pk": 447
+  },
+  {
+    "fields": {
+      "post": 92,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 448
+  },
+  {
+    "fields": {
+      "post": 92,
+      "tag": 7
+    },
+    "model": "blog.posttags",
+    "pk": 449
+  },
+  {
+    "fields": {
+      "post": 91,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 450
+  },
+  {
+    "fields": {
+      "post": 93,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 483
+  },
+  {
+    "fields": {
+      "post": 93,
+      "tag": 1
+    },
+    "model": "blog.posttags",
+    "pk": 484
+  },
+  {
+    "fields": {
+      "post": 93,
+      "tag": 7
+    },
+    "model": "blog.posttags",
+    "pk": 485
+  },
+  {
+    "fields": {
+      "post": 93,
+      "tag": 33
+    },
+    "model": "blog.posttags",
+    "pk": 486
+  },
+  {
+    "fields": {
+      "post": 94,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 487
+  },
+  {
+    "fields": {
+      "post": 95,
+      "tag": 20
+    },
+    "model": "blog.posttags",
+    "pk": 488
+  },
+  {
+    "fields": {
+      "post": 95,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 489
+  },
+  {
+    "fields": {
+      "post": 43,
+      "tag": 1
+    },
+    "model": "blog.posttags",
+    "pk": 490
+  },
+  {
+    "fields": {
+      "post": 43,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 491
+  },
+  {
+    "fields": {
+      "post": 96,
+      "tag": 3
+    },
+    "model": "blog.posttags",
+    "pk": 492
+  },
+  {
+    "fields": {
+      "post": 96,
+      "tag": 1
+    },
+    "model": "blog.posttags",
+    "pk": 493
+  },
+  {
+    "fields": {
+      "post": 96,
+      "tag": 40
+    },
+    "model": "blog.posttags",
+    "pk": 494
+  },
+  {
+    "fields": {
+      "post": 97,
+      "tag": 6
+    },
+    "model": "blog.posttags",
+    "pk": 495
+  },
+  {
+    "fields": {
+      "post": 57,
+      "tag": 27
+    },
+    "model": "blog.posttags",
+    "pk": 498
+  },
+  {
+    "fields": {
+      "post": 98,
+      "tag": 17
+    },
+    "model": "blog.posttags",
+    "pk": 503
+  },
+  {
+    "fields": {
+      "post": 99,
+      "tag": 2
+    },
+    "model": "blog.posttags",
+    "pk": 504
+  },
+  {
+    "fields": {
+      "post": 100,
+      "tag": 13
+    },
+    "model": "blog.posttags",
+    "pk": 517
+  },
+  {
+    "fields": {
+      "post": 100,
+      "tag": 7
+    },
+    "model": "blog.posttags",
+    "pk": 518
+  },
+  {
+    "fields": {
+      "post": 101,
+      "tag": 13
+    },
+    "model": "blog.posttags",
+    "pk": 519
+  },
+  {
+    "fields": {
+      "post": 101,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 520
+  },
+  {
+    "fields": {
+      "post": 102,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 521
+  },
+  {
+    "fields": {
+      "post": 102,
+      "tag": 40
+    },
+    "model": "blog.posttags",
+    "pk": 522
+  },
+  {
+    "fields": {
+      "post": 102,
+      "tag": 7
+    },
+    "model": "blog.posttags",
+    "pk": 523
+  },
+  {
+    "fields": {
+      "post": 103,
+      "tag": 31
+    },
+    "model": "blog.posttags",
+    "pk": 530
+  },
+  {
+    "fields": {
+      "post": 103,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 531
+  },
+  {
+    "fields": {
+      "post": 104,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 532
+  },
+  {
+    "fields": {
+      "post": 105,
+      "tag": 13
+    },
+    "model": "blog.posttags",
+    "pk": 533
+  },
+  {
+    "fields": {
+      "post": 105,
+      "tag": 5
+    },
+    "model": "blog.posttags",
+    "pk": 534
+  },
+  {
+    "fields": {
+      "post": 106,
+      "tag": 31
+    },
+    "model": "blog.posttags",
+    "pk": 569
+  },
+  {
+    "fields": {
+      "post": 139,
+      "tag": 8
+    },
+    "model": "blog.posttags",
+    "pk": 582
+  },
+  {
+    "fields": {
+      "post": 139,
+      "tag": 41
+    },
+    "model": "blog.posttags",
+    "pk": 583
+  },
+  {
+    "fields": {
+      "post": 140,
+      "tag": 42
+    },
+    "model": "blog.posttags",
+    "pk": 587
+  },
+  {
+    "fields": {
+      "date_joined": "2018-07-05T22:44:10.607Z",
+      "email": "pedro.miguel@live.co.uk",
+      "first_name": "",
+      "groups": [],
+      "is_active": true,
+      "is_staff": true,
+      "is_superuser": true,
+      "last_login": "2020-02-19T15:32:43.191Z",
+      "last_name": "",
+      "password": "pbkdf2_sha256$24000$5yY7Inm2E6Xr$8Ai/BaPOXWmhjAonlQjpKVfhOoVpcX6Jy0Y64QOlC1w=",
+      "user_permissions": [],
+      "username": "pedro"
+    },
+    "model": "auth.user",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "action_flag": 3,
+      "action_time": "2018-07-15T21:27:29.000Z",
+      "change_message": "",
+      "content_type": 8,
+      "object_id": "80",
+      "object_repr": "Vertical display output in PostgreSQL",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "action_flag": 3,
+      "action_time": "2018-07-17T22:23:38.325Z",
+      "change_message": "",
+      "content_type": 8,
+      "object_id": "77",
+      "object_repr": "How to download a file/folder from openshift to your local machine",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "action_flag": 3,
+      "action_time": "2018-07-17T22:23:50.400Z",
+      "change_message": "",
+      "content_type": 7,
+      "object_id": "36",
+      "object_repr": "Openshift",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "action_flag": 3,
+      "action_time": "2018-07-17T22:25:39.151Z",
+      "change_message": "",
+      "content_type": 7,
+      "object_id": "10",
+      "object_repr": "RVM",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "action_flag": 3,
+      "action_time": "2018-07-17T22:25:39.165Z",
+      "change_message": "",
+      "content_type": 7,
+      "object_id": "9",
+      "object_repr": "Ruby",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "action_flag": 3,
+      "action_time": "2018-07-17T22:25:57.000Z",
+      "change_message": "",
+      "content_type": 8,
+      "object_id": "28",
+      "object_repr": "Installing/Uninstalling Ruby using RVM on Ubuntu",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "action_flag": 3,
+      "action_time": "2018-07-17T22:27:03.662Z",
+      "change_message": "",
+      "content_type": 8,
+      "object_id": "78",
+      "object_repr": "How to verify you have Java installed",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 7
+  },
+  {
+    "fields": {
+      "action_flag": 3,
+      "action_time": "2018-07-17T22:27:03.673Z",
+      "change_message": "",
+      "content_type": 8,
+      "object_id": "29",
+      "object_repr": "How to install OpenJDK on Ubuntu",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 8
+  },
+  {
+    "fields": {
+      "action_flag": 3,
+      "action_time": "2018-07-17T22:27:26.198Z",
+      "change_message": "",
+      "content_type": 7,
+      "object_id": "37",
+      "object_repr": "Java",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 9
+  },
+  {
+    "fields": {
+      "action_flag": 3,
+      "action_time": "2018-07-17T22:27:26.210Z",
+      "change_message": "",
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "OpenJDK",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 10
+  },
+  {
+    "fields": {
+      "action_flag": 2,
+      "action_time": "2018-07-18T12:31:12.687Z",
+      "change_message": "Changed name and slug.",
+      "content_type": 7,
+      "object_id": "14",
+      "object_repr": "Virtualenv",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 11
+  },
+  {
+    "fields": {
+      "action_flag": 1,
+      "action_time": "2019-12-11T14:37:36.672Z",
+      "change_message": "Added.",
+      "content_type": 4,
+      "object_id": "2",
+      "object_repr": "james",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 12
+  },
+  {
+    "fields": {
+      "action_flag": 2,
+      "action_time": "2019-12-11T14:38:25.572Z",
+      "change_message": "Changed is_staff and is_superuser.",
+      "content_type": 4,
+      "object_id": "2",
+      "object_repr": "james",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 13
+  },
+  {
+    "fields": {
+      "action_flag": 1,
+      "action_time": "2019-12-11T14:39:00.933Z",
+      "change_message": "Added.",
+      "content_type": 4,
+      "object_id": "3",
+      "object_repr": "Tom",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 14
+  },
+  {
+    "fields": {
+      "action_flag": 2,
+      "action_time": "2019-12-11T14:39:09.384Z",
+      "change_message": "Changed username.",
+      "content_type": 4,
+      "object_id": "3",
+      "object_repr": "tom",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 15
+  },
+  {
+    "fields": {
+      "action_flag": 2,
+      "action_time": "2019-12-11T14:42:54.804Z",
+      "change_message": "Changed is_staff and is_superuser.",
+      "content_type": 4,
+      "object_id": "3",
+      "object_repr": "tom",
+      "user": 1
+    },
+    "model": "admin.logentry",
+    "pk": 16
+  }
+]
