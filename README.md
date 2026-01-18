@@ -1,10 +1,19 @@
-# Back&Beyond
+# Back And Beyond
 
 A simple blog with notes and tips collected throughout the years.
 
 ## Start server
 ```
 hugo server
+```
+
+Possible arguments:
+* `-DF` - The `-D` will publish posts that are still in draft mode, and the `F` will publish posts that have dates in the future.
+* `--noHTTPCache` - Ensures that all changes are picked up and nothing is cached.
+
+Example usage:
+```
+hugo server -DF --noHTTPCache
 ```
 
 ## Adding a new post
